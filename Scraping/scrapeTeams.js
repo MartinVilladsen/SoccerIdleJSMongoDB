@@ -3,7 +3,7 @@ const cheerio = require('cheerio');
 const fs = require('fs');
 const mongoose = require('mongoose');
 
-mongoose.connect('mongodb+srv://martinkvilladsen:cqGafMc1BtZqHEIj@socceridle.vxc4x.mongodb.net/SoccerIdleDB');
+mongoose.connect('mongodb+srv://martinkvilladsen: Skjuler lige min Kode :) @socceridle.vxc4x.mongodb.net/SoccerIdleDB');
 
 const playerSchema = new mongoose.Schema({
     shirtNumber: Number,
