@@ -24,8 +24,6 @@ const url = "https://www.premierleague.com/tables";
 
 const premTeams = [];
 
-// Define path to the JSON file
-
 let index = 0;
 let getPlayersTeam = [
     'TeamPlayerJSON\\LiverpoolPlayers.json', 
@@ -51,7 +49,7 @@ let getPlayersTeam = [
 ]
 
 
-// Function to read players from JSON
+// Læs players fra JSON
 const getPlayers = () => {
     if (index >= getPlayersTeam.length) return []
     const playersData = JSON.parse(fs.readFileSync(getPlayersTeam[index], 'utf-8'));
@@ -67,11 +65,10 @@ getHTML().then(async (res) => {
     const $ = cheerio.load(res);
 
     $('tr').each((i, row) => {
-        // Find team name
+        // Find holdnavn
         const teamName = $(row).find('span.league-table__team-name.league-table__team-name--long.long').text().trim();
         console.log(teamName);
         if (teamName && !premTeams.some(team => team.teamName === teamName)) {
-            // Filter players for the current team
             console.log(getPlayersTeam[index]);
             const players = getPlayers(); 
             index++;
@@ -88,7 +85,7 @@ getHTML().then(async (res) => {
         console.log('File successfully saved');
     });
 
-    // Save teams to MongoDB
+    // Gem teams til MongoDB
     await Team.insertMany(premTeams);
     console.log('Teams successfully saved to MongoDB');
 }).catch(err => {
@@ -96,6 +93,8 @@ getHTML().then(async (res) => {
 });
 
 
+
+// Gammel kode
 /** 
 
 getHTML().then((res) => {

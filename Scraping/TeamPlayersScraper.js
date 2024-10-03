@@ -21,32 +21,32 @@ async function getHTML() {
 getHTML().then((res) => {
     const $ = cheerio.load(res);
     
-    // Loop through each row in the table
+    // Loop igennem hver row i table
     $('tr').each((i, row) => {
-        // Find the shirt number
+        // Find trøjenummer
         const shirtNumberStr = $(row).find('div.rn_nummer').text().trim();
-        const shirtNumber = parseInt(shirtNumberStr); // Convert
+        const shirtNumber = parseInt(shirtNumberStr); 
 
-        // Find the player name
+        // Find spillerens navn
         const playerName = $(row).find('td.hauptlink a').text().trim().split('€')[0].trim();
 
-        // Find the age
-        const ageText = $(row).find('td.zentriert').eq(1).text().trim(); // Assuming age is in the first 'zentriert' cell
+        // Find alderen - Virker kun nogle gange, skal fikses
+        const ageText = $(row).find('td.zentriert').eq(1).text().trim();
         const playerAgeStr = ageText.split(',')[0].trim();
-        const playerAge = parseInt(playerAgeStr); // Convert
+        const playerAge = parseInt(playerAgeStr); 
 
 
-        // Find the country
+        // Find spillerens hjemland
         const playerCountry = $(row).find('td.zentriert img').attr('title');
 
-        // Traverse to the next td that contains the position
+        // Find spillerens position
         const positionCell = $(row).find('td').eq(1);
         let position = positionCell.text().trim();
 
-        // GPT: Clean the position text (removing player name and extra whitespace)
+        // Noget regex kode af GPT til at få det til at se pænt ud
         position = position.replace(/\s+/g, ' ').replace(playerName, '').trim();
 
-        // Add to array if values are true
+        // Tilføj spilleren til playersData arrayet hvis værdierne eksisterer
         if (shirtNumber && playerName && position) {
             playersData.push({
                 shirtNumber,
@@ -58,7 +58,7 @@ getHTML().then((res) => {
         }
     });
 
-    // Save the data to a JSON file
+    // Gem data til JSON fil
     fs.writeFile(teamPlayerData, JSON.stringify(playersData, null, 2), (err) => {
         if (err) throw err;
         console.log('File successfully saved');
