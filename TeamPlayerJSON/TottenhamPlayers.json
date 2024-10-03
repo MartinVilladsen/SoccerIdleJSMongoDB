@@ -1,0 +1,177 @@
+[
+  {
+    "shirtNumber": 1,
+    "playerName": "Guglielmo Vicario",
+    "playerAge": null,
+    "playerCountry": "Italy",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 20,
+    "playerName": "Fraser Forster",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 40,
+    "playerName": "Brandon Austin",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 41,
+    "playerName": "Alfie Whiteman",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 17,
+    "playerName": "Cristian Romero",
+    "playerAge": null,
+    "playerCountry": "Argentina",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 37,
+    "playerName": "Micky van de Ven",
+    "playerAge": null,
+    "playerCountry": "Netherlands",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 6,
+    "playerName": "Radu Drăgușin",
+    "playerAge": null,
+    "playerCountry": "Romania",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 33,
+    "playerName": "Ben Davies",
+    "playerAge": null,
+    "playerCountry": "Wales",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 13,
+    "playerName": "Destiny Udogie",
+    "playerAge": null,
+    "playerCountry": "Italy",
+    "position": "Left-Back"
+  },
+  {
+    "shirtNumber": 3,
+    "playerName": "Sergio Reguilón",
+    "playerAge": null,
+    "playerCountry": "Spain",
+    "position": "Left-Back"
+  },
+  {
+    "shirtNumber": 23,
+    "playerName": "Pedro Porro",
+    "playerAge": null,
+    "playerCountry": "Spain",
+    "position": "Right-Back"
+  },
+  {
+    "shirtNumber": 24,
+    "playerName": "Djed Spence",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Right-Back"
+  },
+  {
+    "shirtNumber": 8,
+    "playerName": "Yves Bissouma",
+    "playerAge": null,
+    "playerCountry": "Mali",
+    "position": "Defensive Midfield"
+  },
+  {
+    "shirtNumber": 30,
+    "playerName": "Rodrigo Bentancur",
+    "playerAge": null,
+    "playerCountry": "Uruguay",
+    "position": "Defensive Midfield"
+  },
+  {
+    "shirtNumber": 29,
+    "playerName": "Pape Matar Sarr",
+    "playerAge": null,
+    "playerCountry": "Senegal",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 14,
+    "playerName": "Archie Gray",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 10,
+    "playerName": "James Maddison",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Attacking Midfield"
+  },
+  {
+    "shirtNumber": 21,
+    "playerName": "Dejan Kulusevski",
+    "playerAge": null,
+    "playerCountry": "Sweden",
+    "position": "Attacking Midfield"
+  },
+  {
+    "shirtNumber": 15,
+    "playerName": "Lucas Bergvall",
+    "playerAge": null,
+    "playerCountry": "Sweden",
+    "position": "Attacking Midfield"
+  },
+  {
+    "shirtNumber": 7,
+    "playerName": "Heung-min Son",
+    "playerAge": null,
+    "playerCountry": "Korea, South",
+    "position": "Left Winger"
+  },
+  {
+    "shirtNumber": 16,
+    "playerName": "Timo Werner",
+    "playerAge": null,
+    "playerCountry": "Germany",
+    "position": "Left Winger"
+  },
+  {
+    "shirtNumber": 22,
+    "playerName": "Brennan Johnson",
+    "playerAge": null,
+    "playerCountry": "Wales",
+    "position": "Right Winger"
+  },
+  {
+    "shirtNumber": 28,
+    "playerName": "Wilson Odobert",
+    "playerAge": null,
+    "playerCountry": "France",
+    "position": "Right Winger"
+  },
+  {
+    "shirtNumber": 19,
+    "playerName": "Dominic Solanke",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Centre-Forward"
+  },
+  {
+    "shirtNumber": 9,
+    "playerName": "Richarlison",
+    "playerAge": null,
+    "playerCountry": "Brazil",
+    "position": "Centre-Forward"
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "shirtNumber": 13,
+    "playerName": "Kepa Arrizabalaga",
+    "playerAge": null,
+    "playerCountry": "Spain",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 42,
+    "playerName": "Mark Travers",
+    "playerAge": null,
+    "playerCountry": "Ireland",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 40,
+    "playerName": "Will Dennis",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 27,
+    "playerName": "Ilya Zabarnyi",
+    "playerAge": null,
+    "playerCountry": "Ukraine",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 5,
+    "playerName": "Marcos Senesi",
+    "playerAge": null,
+    "playerCountry": "Argentina",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 2,
+    "playerName": "Dean Huijsen",
+    "playerAge": null,
+    "playerCountry": "Spain",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 23,
+    "playerName": "James Hill",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 3,
+    "playerName": "Milos Kerkez",
+    "playerAge": null,
+    "playerCountry": "Hungary",
+    "position": "Left-Back"
+  },
+  {
+    "shirtNumber": 37,
+    "playerName": "Max Aarons",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Right-Back"
+  },
+  {
+    "shirtNumber": 22,
+    "playerName": "Julián Araujo",
+    "playerAge": null,
+    "playerCountry": "Mexico",
+    "position": "Right-Back"
+  },
+  {
+    "shirtNumber": 15,
+    "playerName": "Adam Smith",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Right-Back"
+  },
+  {
+    "shirtNumber": 12,
+    "playerName": "Tyler Adams",
+    "playerAge": null,
+    "playerCountry": "United States",
+    "position": "Defensive Midfield"
+  },
+  {
+    "shirtNumber": 8,
+    "playerName": "Alex Scott",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 29,
+    "playerName": "Philip Billing",
+    "playerAge": null,
+    "playerCountry": "Denmark",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 4,
+    "playerName": "Lewis Cook",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 10,
+    "playerName": "Ryan Christie",
+    "playerAge": null,
+    "playerCountry": "Scotland",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 16,
+    "playerName": "Marcus Tavernier",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Left Midfield"
+  },
+  {
+    "shirtNumber": 11,
+    "playerName": "Dango Ouattara",
+    "playerAge": null,
+    "playerCountry": "Burkina Faso",
+    "position": "Left Winger"
+  },
+  {
+    "shirtNumber": 17,
+    "playerName": "Luis Sinisterra",
+    "playerAge": null,
+    "playerCountry": "Colombia",
+    "position": "Left Winger"
+  },
+  {
+    "shirtNumber": 19,
+    "playerName": "Justin Kluivert",
+    "playerAge": null,
+    "playerCountry": "Netherlands",
+    "position": "Left Winger"
+  },
+  {
+    "shirtNumber": 24,
+    "playerName": "Antoine Semenyo",
+    "playerAge": null,
+    "playerCountry": "Ghana",
+    "position": "Right Winger"
+  },
+  {
+    "shirtNumber": 7,
+    "playerName": "David Brooks",
+    "playerAge": null,
+    "playerCountry": "Wales",
+    "position": "Right Winger"
+  },
+  {
+    "shirtNumber": 9,
+    "playerName": "Evanilson",
+    "playerAge": null,
+    "playerCountry": "Brazil",
+    "position": "Centre-Forward"
+  },
+  {
+    "shirtNumber": 26,
+    "playerName": "Enes Ünal",
+    "playerAge": null,
+    "playerCountry": "Türkiye",
+    "position": "Centre-Forward"
+  }
+]

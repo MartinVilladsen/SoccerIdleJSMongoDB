@@ -1,0 +1,205 @@
+[
+  {
+    "shirtNumber": 1,
+    "playerName": "José Sá",
+    "playerAge": null,
+    "playerCountry": "Portugal",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 31,
+    "playerName": "Sam Johnstone",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 25,
+    "playerName": "Daniel Bentley",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 40,
+    "playerName": "Tom King",
+    "playerAge": null,
+    "playerCountry": "Wales",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 24,
+    "playerName": "Toti",
+    "playerAge": null,
+    "playerCountry": "Portugal",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 4,
+    "playerName": "Santiago Bueno",
+    "playerAge": null,
+    "playerCountry": "Uruguay",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 14,
+    "playerName": "Yerson Mosquera",
+    "playerAge": null,
+    "playerCountry": "Colombia",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 33,
+    "playerName": "Bastien Meupiyou",
+    "playerAge": null,
+    "playerCountry": "France",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 15,
+    "playerName": "Craig Dawson",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 3,
+    "playerName": "Rayan Aït-Nouri",
+    "playerAge": null,
+    "playerCountry": "Algeria",
+    "position": "Left-Back"
+  },
+  {
+    "shirtNumber": 22,
+    "playerName": "Nélson Semedo",
+    "playerAge": null,
+    "playerCountry": "Portugal",
+    "position": "Right-Back"
+  },
+  {
+    "shirtNumber": 37,
+    "playerName": "Pedro Lima",
+    "playerAge": null,
+    "playerCountry": "Brazil",
+    "position": "Right-Back"
+  },
+  {
+    "shirtNumber": 2,
+    "playerName": "Matt Doherty",
+    "playerAge": null,
+    "playerCountry": "Ireland",
+    "position": "Right-Back"
+  },
+  {
+    "shirtNumber": 7,
+    "playerName": "André",
+    "playerAge": null,
+    "playerCountry": "Brazil",
+    "position": "Defensive Midfield"
+  },
+  {
+    "shirtNumber": 5,
+    "playerName": "Mario Lemina",
+    "playerAge": null,
+    "playerCountry": "Gabon",
+    "position": "Defensive Midfield"
+  },
+  {
+    "shirtNumber": 6,
+    "playerName": "Boubacar Traoré",
+    "playerAge": null,
+    "playerCountry": "Mali",
+    "position": "Defensive Midfield"
+  },
+  {
+    "shirtNumber": 8,
+    "playerName": "João Gomes",
+    "playerAge": null,
+    "playerCountry": "Brazil",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 27,
+    "playerName": "Jean-Ricner Bellegarde",
+    "playerAge": null,
+    "playerCountry": "France",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 20,
+    "playerName": "Tommy Doyle",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 39,
+    "playerName": "Luke Cundle",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 19,
+    "playerName": "Rodrigo Gomes",
+    "playerAge": null,
+    "playerCountry": "Portugal",
+    "position": "Right Midfield"
+  },
+  {
+    "shirtNumber": 29,
+    "playerName": "Gonçalo Guedes",
+    "playerAge": null,
+    "playerCountry": "Portugal",
+    "position": "Left Winger"
+  },
+  {
+    "shirtNumber": 26,
+    "playerName": "Carlos Forbs",
+    "playerAge": null,
+    "playerCountry": "Portugal",
+    "position": "Left Winger"
+  },
+  {
+    "shirtNumber": 30,
+    "playerName": "Enso González",
+    "playerAge": null,
+    "playerCountry": "Paraguay",
+    "position": "Left Winger"
+  },
+  {
+    "shirtNumber": 21,
+    "playerName": "Pablo Sarabia",
+    "playerAge": null,
+    "playerCountry": "Spain",
+    "position": "Right Winger"
+  },
+  {
+    "shirtNumber": 12,
+    "playerName": "Matheus Cunha",
+    "playerAge": null,
+    "playerCountry": "Brazil",
+    "position": "Centre-Forward"
+  },
+  {
+    "shirtNumber": 9,
+    "playerName": "Jørgen Strand Larsen",
+    "playerAge": null,
+    "playerCountry": "Norway",
+    "position": "Centre-Forward"
+  },
+  {
+    "shirtNumber": 11,
+    "playerName": "Hee-chan Hwang",
+    "playerAge": null,
+    "playerCountry": "Korea, South",
+    "position": "Centre-Forward"
+  },
+  {
+    "shirtNumber": 18,
+    "playerName": "Sasa Kalajdzic",
+    "playerAge": null,
+    "playerCountry": "Austria",
+    "position": "Centre-Forward"
+  }
+]

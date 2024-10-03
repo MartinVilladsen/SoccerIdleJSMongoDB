@@ -1,0 +1,191 @@
+[
+  {
+    "shirtNumber": 1,
+    "playerName": "Arijanet Muric",
+    "playerAge": null,
+    "playerCountry": "Kosovo",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 28,
+    "playerName": "Christian Walton",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 13,
+    "playerName": "Cieran Slicker",
+    "playerAge": null,
+    "playerCountry": "Scotland",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 24,
+    "playerName": "Jacob Greaves",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 26,
+    "playerName": "Dara O'Shea",
+    "playerAge": null,
+    "playerCountry": "Ireland",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 40,
+    "playerName": "Axel Tuanzebe",
+    "playerAge": null,
+    "playerCountry": "DR Congo",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 6,
+    "playerName": "Luke Woolfenden",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 15,
+    "playerName": "Cameron Burgess",
+    "playerAge": null,
+    "playerCountry": "Australia",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 3,
+    "playerName": "Leif Davis",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Left-Back"
+  },
+  {
+    "shirtNumber": 22,
+    "playerName": "Conor Townsend",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Left-Back"
+  },
+  {
+    "shirtNumber": 18,
+    "playerName": "Ben Johnson",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Right-Back"
+  },
+  {
+    "shirtNumber": 2,
+    "playerName": "Harry Clarke",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Right-Back"
+  },
+  {
+    "shirtNumber": 8,
+    "playerName": "Kalvin Phillips",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Defensive Midfield"
+  },
+  {
+    "shirtNumber": 12,
+    "playerName": "Jens Cajuste",
+    "playerAge": null,
+    "playerCountry": "Sweden",
+    "position": "Defensive Midfield"
+  },
+  {
+    "shirtNumber": 14,
+    "playerName": "Jack Taylor",
+    "playerAge": null,
+    "playerCountry": "Ireland",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 5,
+    "playerName": "Sam Morsy",
+    "playerAge": null,
+    "playerCountry": "Egypt",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 25,
+    "playerName": "Massimo Luongo",
+    "playerAge": null,
+    "playerCountry": "Australia",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 23,
+    "playerName": "Sammie Szmodics",
+    "playerAge": null,
+    "playerCountry": "Ireland",
+    "position": "Attacking Midfield"
+  },
+  {
+    "shirtNumber": 47,
+    "playerName": "Jack Clarke",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Left Winger"
+  },
+  {
+    "shirtNumber": 33,
+    "playerName": "Nathan Broadhead",
+    "playerAge": null,
+    "playerCountry": "Wales",
+    "position": "Left Winger"
+  },
+  {
+    "shirtNumber": 20,
+    "playerName": "Omari Hutchinson",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Right Winger"
+  },
+  {
+    "shirtNumber": 21,
+    "playerName": "Chiedozie Ogbene",
+    "playerAge": null,
+    "playerCountry": "Ireland",
+    "position": "Right Winger"
+  },
+  {
+    "shirtNumber": 7,
+    "playerName": "Wes Burns",
+    "playerAge": null,
+    "playerCountry": "Wales",
+    "position": "Right Winger"
+  },
+  {
+    "shirtNumber": 10,
+    "playerName": "Conor Chaplin",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Second Striker"
+  },
+  {
+    "shirtNumber": 19,
+    "playerName": "Liam Delap",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Centre-Forward"
+  },
+  {
+    "shirtNumber": 27,
+    "playerName": "George Hirst",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Centre-Forward"
+  },
+  {
+    "shirtNumber": 16,
+    "playerName": "Ali Al-Hamadi",
+    "playerAge": null,
+    "playerCountry": "Iraq",
+    "position": "Centre-Forward"
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "shirtNumber": 31,
+    "playerName": "Ederson",
+    "playerAge": 31,
+    "playerCountry": "Brazil",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 18,
+    "playerName": "Stefan Ortega",
+    "playerAge": 31,
+    "playerCountry": "Germany",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 33,
+    "playerName": "Scott Carson",
+    "playerAge": 39,
+    "playerCountry": "England",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 3,
+    "playerName": "Rúben Dias",
+    "playerAge": 27,
+    "playerCountry": "Portugal",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 25,
+    "playerName": "Manuel Akanji",
+    "playerAge": 29,
+    "playerCountry": "Switzerland",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 6,
+    "playerName": "Nathan Aké",
+    "playerAge": 29,
+    "playerCountry": "Netherlands",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 5,
+    "playerName": "John Stones",
+    "playerAge": 30,
+    "playerCountry": "England",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 24,
+    "playerName": "Josko Gvardiol",
+    "playerAge": 22,
+    "playerCountry": "Croatia",
+    "position": "Left-Back"
+  },
+  {
+    "shirtNumber": 97,
+    "playerName": "Josh Wilson-Esbrand",
+    "playerAge": 21,
+    "playerCountry": "England",
+    "position": "Left-Back"
+  },
+  {
+    "shirtNumber": 82,
+    "playerName": "Rico Lewis",
+    "playerAge": 19,
+    "playerCountry": "England",
+    "position": "Right-Back"
+  },
+  {
+    "shirtNumber": 2,
+    "playerName": "Kyle Walker",
+    "playerAge": 34,
+    "playerCountry": "England",
+    "position": "Right-Back"
+  },
+  {
+    "shirtNumber": 16,
+    "playerName": "Rodri",
+    "playerAge": 28,
+    "playerCountry": "Spain",
+    "position": "Defensive Midfield"
+  },
+  {
+    "shirtNumber": 27,
+    "playerName": "Matheus Nunes",
+    "playerAge": 26,
+    "playerCountry": "Portugal",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 8,
+    "playerName": "Mateo Kovacic",
+    "playerAge": 30,
+    "playerCountry": "Croatia",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 19,
+    "playerName": "İlkay Gündoğan",
+    "playerAge": 33,
+    "playerCountry": "Germany",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 87,
+    "playerName": "James McAtee",
+    "playerAge": 21,
+    "playerCountry": "England",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 20,
+    "playerName": "Bernardo Silva",
+    "playerAge": 30,
+    "playerCountry": "Portugal",
+    "position": "Attacking Midfield"
+  },
+  {
+    "shirtNumber": 17,
+    "playerName": "Kevin De Bruyne",
+    "playerAge": 33,
+    "playerCountry": "Belgium",
+    "position": "Attacking Midfield"
+  },
+  {
+    "shirtNumber": 11,
+    "playerName": "Jérémy Doku",
+    "playerAge": 22,
+    "playerCountry": "Belgium",
+    "position": "Left Winger"
+  },
+  {
+    "shirtNumber": 10,
+    "playerName": "Jack Grealish",
+    "playerAge": 29,
+    "playerCountry": "England",
+    "position": "Left Winger"
+  },
+  {
+    "shirtNumber": 47,
+    "playerName": "Phil Foden",
+    "playerAge": 24,
+    "playerCountry": "England",
+    "position": "Right Winger"
+  },
+  {
+    "shirtNumber": 26,
+    "playerName": "Savinho",
+    "playerAge": 20,
+    "playerCountry": "Brazil",
+    "position": "Right Winger"
+  },
+  {
+    "shirtNumber": 52,
+    "playerName": "Oscar Bobb",
+    "playerAge": 21,
+    "playerCountry": "Norway",
+    "position": "Right Winger"
+  },
+  {
+    "shirtNumber": 9,
+    "playerName": "Erling Haaland",
+    "playerAge": 24,
+    "playerCountry": "Norway",
+    "position": "Centre-Forward"
+  }
+]

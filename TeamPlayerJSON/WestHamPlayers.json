@@ -1,0 +1,170 @@
+[
+  {
+    "shirtNumber": 23,
+    "playerName": "Alphonse Areola",
+    "playerAge": null,
+    "playerCountry": "France",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 21,
+    "playerName": "Wes Foderingham",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 1,
+    "playerName": "Lukasz Fabianski",
+    "playerAge": null,
+    "playerCountry": "Poland",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 26,
+    "playerName": "Max Kilman",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 25,
+    "playerName": "Jean-Clair Todibo",
+    "playerAge": null,
+    "playerCountry": "France",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 15,
+    "playerName": "Konstantinos Mavropanos",
+    "playerAge": null,
+    "playerCountry": "Greece",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 42,
+    "playerName": "Kaelan Casey",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 33,
+    "playerName": "Emerson",
+    "playerAge": null,
+    "playerCountry": "Italy",
+    "position": "Left-Back"
+  },
+  {
+    "shirtNumber": 3,
+    "playerName": "Aaron Cresswell",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Left-Back"
+  },
+  {
+    "shirtNumber": 29,
+    "playerName": "Aaron Wan-Bissaka",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Right-Back"
+  },
+  {
+    "shirtNumber": 5,
+    "playerName": "Vladimír Coufal",
+    "playerAge": null,
+    "playerCountry": "Czech Republic",
+    "position": "Right-Back"
+  },
+  {
+    "shirtNumber": 19,
+    "playerName": "Edson Álvarez",
+    "playerAge": null,
+    "playerCountry": "Mexico",
+    "position": "Defensive Midfield"
+  },
+  {
+    "shirtNumber": 28,
+    "playerName": "Tomas Soucek",
+    "playerAge": null,
+    "playerCountry": "Czech Republic",
+    "position": "Defensive Midfield"
+  },
+  {
+    "shirtNumber": 24,
+    "playerName": "Guido Rodríguez",
+    "playerAge": null,
+    "playerCountry": "Argentina",
+    "position": "Defensive Midfield"
+  },
+  {
+    "shirtNumber": 4,
+    "playerName": "Carlos Soler",
+    "playerAge": null,
+    "playerCountry": "Spain",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 39,
+    "playerName": "Andy Irving",
+    "playerAge": null,
+    "playerCountry": "Scotland",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 10,
+    "playerName": "Lucas Paquetá",
+    "playerAge": null,
+    "playerCountry": "Brazil",
+    "position": "Attacking Midfield"
+  },
+  {
+    "shirtNumber": 14,
+    "playerName": "Mohammed Kudus",
+    "playerAge": null,
+    "playerCountry": "Ghana",
+    "position": "Attacking Midfield"
+  },
+  {
+    "shirtNumber": 7,
+    "playerName": "Crysencio Summerville",
+    "playerAge": null,
+    "playerCountry": "Netherlands",
+    "position": "Left Winger"
+  },
+  {
+    "shirtNumber": 20,
+    "playerName": "Jarrod Bowen",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Right Winger"
+  },
+  {
+    "shirtNumber": 17,
+    "playerName": "Luis Guilherme",
+    "playerAge": null,
+    "playerCountry": "Brazil",
+    "position": "Right Winger"
+  },
+  {
+    "shirtNumber": 11,
+    "playerName": "Niclas Füllkrug",
+    "playerAge": null,
+    "playerCountry": "Germany",
+    "position": "Centre-Forward"
+  },
+  {
+    "shirtNumber": 18,
+    "playerName": "Danny Ings",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Centre-Forward"
+  },
+  {
+    "shirtNumber": 9,
+    "playerName": "Michail Antonio",
+    "playerAge": null,
+    "playerCountry": "Jamaica",
+    "position": "Centre-Forward"
+  }
+]

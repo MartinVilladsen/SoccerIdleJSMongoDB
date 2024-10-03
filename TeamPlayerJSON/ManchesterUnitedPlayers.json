@@ -1,0 +1,198 @@
+[
+  {
+    "shirtNumber": 24,
+    "playerName": "André Onana",
+    "playerAge": null,
+    "playerCountry": "Cameroon",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 1,
+    "playerName": "Altay Bayındır",
+    "playerAge": null,
+    "playerCountry": "Türkiye",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 22,
+    "playerName": "Tom Heaton",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 4,
+    "playerName": "Matthijs de Ligt",
+    "playerAge": null,
+    "playerCountry": "Netherlands",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 15,
+    "playerName": "Leny Yoro",
+    "playerAge": null,
+    "playerCountry": "France",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 6,
+    "playerName": "Lisandro Martínez",
+    "playerAge": null,
+    "playerCountry": "Argentina",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 5,
+    "playerName": "Harry Maguire",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 2,
+    "playerName": "Victor Lindelöf",
+    "playerAge": null,
+    "playerCountry": "Sweden",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 35,
+    "playerName": "Jonny Evans",
+    "playerAge": null,
+    "playerCountry": "Northern Ireland",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 23,
+    "playerName": "Luke Shaw",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Left-Back"
+  },
+  {
+    "shirtNumber": 12,
+    "playerName": "Tyrell Malacia",
+    "playerAge": null,
+    "playerCountry": "Netherlands",
+    "position": "Left-Back"
+  },
+  {
+    "shirtNumber": 20,
+    "playerName": "Diogo Dalot",
+    "playerAge": null,
+    "playerCountry": "Portugal",
+    "position": "Right-Back"
+  },
+  {
+    "shirtNumber": 3,
+    "playerName": "Noussair Mazraoui",
+    "playerAge": null,
+    "playerCountry": "Morocco",
+    "position": "Right-Back"
+  },
+  {
+    "shirtNumber": 25,
+    "playerName": "Manuel Ugarte",
+    "playerAge": null,
+    "playerCountry": "Uruguay",
+    "position": "Defensive Midfield"
+  },
+  {
+    "shirtNumber": 18,
+    "playerName": "Casemiro",
+    "playerAge": null,
+    "playerCountry": "Brazil",
+    "position": "Defensive Midfield"
+  },
+  {
+    "shirtNumber": 43,
+    "playerName": "Toby Collyer",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Defensive Midfield"
+  },
+  {
+    "shirtNumber": 37,
+    "playerName": "Kobbie Mainoo",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 14,
+    "playerName": "Christian Eriksen",
+    "playerAge": null,
+    "playerCountry": "Denmark",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 44,
+    "playerName": "Daniel Gore",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 8,
+    "playerName": "Bruno Fernandes",
+    "playerAge": null,
+    "playerCountry": "Portugal",
+    "position": "Attacking Midfield"
+  },
+  {
+    "shirtNumber": 7,
+    "playerName": "Mason Mount",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Attacking Midfield"
+  },
+  {
+    "shirtNumber": 10,
+    "playerName": "Marcus Rashford",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Left Winger"
+  },
+  {
+    "shirtNumber": 17,
+    "playerName": "Alejandro Garnacho",
+    "playerAge": null,
+    "playerCountry": "Argentina",
+    "position": "Left Winger"
+  },
+  {
+    "shirtNumber": 16,
+    "playerName": "Amad Diallo",
+    "playerAge": null,
+    "playerCountry": "Cote d'Ivoire",
+    "position": "Right Winger"
+  },
+  {
+    "shirtNumber": 21,
+    "playerName": "Antony",
+    "playerAge": null,
+    "playerCountry": "Brazil",
+    "position": "Right Winger"
+  },
+  {
+    "shirtNumber": 9,
+    "playerName": "Rasmus Højlund",
+    "playerAge": null,
+    "playerCountry": "Denmark",
+    "position": "Centre-Forward"
+  },
+  {
+    "shirtNumber": 11,
+    "playerName": "Joshua Zirkzee",
+    "playerAge": null,
+    "playerCountry": "Netherlands",
+    "position": "Centre-Forward"
+  },
+  {
+    "shirtNumber": 36,
+    "playerName": "Ethan Wheatley",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Centre-Forward"
+  }
+]

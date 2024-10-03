@@ -1,0 +1,226 @@
+[
+  {
+    "shirtNumber": 30,
+    "playerName": "Aaron Ramsdale",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 31,
+    "playerName": "Gavin Bazunu",
+    "playerAge": null,
+    "playerCountry": "Ireland",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 13,
+    "playerName": "Joe Lumley",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 1,
+    "playerName": "Alex McCarthy",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 6,
+    "playerName": "Taylor Harwood-Bellis",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 37,
+    "playerName": "Armel Bella-Kotchap",
+    "playerAge": null,
+    "playerCountry": "Germany",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 35,
+    "playerName": "Jan Bednarek",
+    "playerAge": null,
+    "playerCountry": "Poland",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 12,
+    "playerName": "Ronnie Edwards",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 15,
+    "playerName": "Nathan Wood",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 5,
+    "playerName": "Jack Stephens",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 28,
+    "playerName": "Juan Larios",
+    "playerAge": null,
+    "playerCountry": "Spain",
+    "position": "Left-Back"
+  },
+  {
+    "shirtNumber": 3,
+    "playerName": "Ryan Manning",
+    "playerAge": null,
+    "playerCountry": "Ireland",
+    "position": "Left-Back"
+  },
+  {
+    "shirtNumber": 21,
+    "playerName": "Charlie Taylor",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Left-Back"
+  },
+  {
+    "shirtNumber": 2,
+    "playerName": "Kyle Walker-Peters",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Right-Back"
+  },
+  {
+    "shirtNumber": 16,
+    "playerName": "Yukinari Sugawara",
+    "playerAge": null,
+    "playerCountry": "Japan",
+    "position": "Right-Back"
+  },
+  {
+    "shirtNumber": 14,
+    "playerName": "James Bree",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Right-Back"
+  },
+  {
+    "shirtNumber": 26,
+    "playerName": "Lesley Ugochukwu",
+    "playerAge": null,
+    "playerCountry": "France",
+    "position": "Defensive Midfield"
+  },
+  {
+    "shirtNumber": 4,
+    "playerName": "Flynn Downes",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Defensive Midfield"
+  },
+  {
+    "shirtNumber": 18,
+    "playerName": "Mateus Fernandes",
+    "playerAge": null,
+    "playerCountry": "Portugal",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 7,
+    "playerName": "Joe Aribo",
+    "playerAge": null,
+    "playerCountry": "Nigeria",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 8,
+    "playerName": "Will Smallbone",
+    "playerAge": null,
+    "playerCountry": "Ireland",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 10,
+    "playerName": "Adam Lallana",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Attacking Midfield"
+  },
+  {
+    "shirtNumber": 20,
+    "playerName": "Kamaldeen Sulemana",
+    "playerAge": null,
+    "playerCountry": "Ghana",
+    "position": "Left Winger"
+  },
+  {
+    "shirtNumber": 22,
+    "playerName": "Maxwel Cornet",
+    "playerAge": null,
+    "playerCountry": "Cote d'Ivoire",
+    "position": "Left Winger"
+  },
+  {
+    "shirtNumber": 24,
+    "playerName": "Ryan Fraser",
+    "playerAge": null,
+    "playerCountry": "Scotland",
+    "position": "Left Winger"
+  },
+  {
+    "shirtNumber": 33,
+    "playerName": "Tyler Dibling",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Right Winger"
+  },
+  {
+    "shirtNumber": 27,
+    "playerName": "Samuel Amo-Ameyaw",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Right Winger"
+  },
+  {
+    "shirtNumber": 9,
+    "playerName": "Adam Armstrong",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Centre-Forward"
+  },
+  {
+    "shirtNumber": 19,
+    "playerName": "Cameron Archer",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Centre-Forward"
+  },
+  {
+    "shirtNumber": 32,
+    "playerName": "Paul Onuachu",
+    "playerAge": null,
+    "playerCountry": "Nigeria",
+    "position": "Centre-Forward"
+  },
+  {
+    "shirtNumber": 17,
+    "playerName": "Ben Brereton Díaz",
+    "playerAge": null,
+    "playerCountry": "Chile",
+    "position": "Centre-Forward"
+  },
+  {
+    "shirtNumber": 11,
+    "playerName": "Ross Stewart",
+    "playerAge": null,
+    "playerCountry": "Scotland",
+    "position": "Centre-Forward"
+  }
+]

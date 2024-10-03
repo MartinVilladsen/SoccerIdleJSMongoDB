@@ -1,0 +1,198 @@
+[
+  {
+    "shirtNumber": 30,
+    "playerName": "Mads Hermansen",
+    "playerAge": null,
+    "playerCountry": "Denmark",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 31,
+    "playerName": "Daniel Iversen",
+    "playerAge": null,
+    "playerCountry": "Denmark",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 1,
+    "playerName": "Danny Ward",
+    "playerAge": null,
+    "playerCountry": "Wales",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 41,
+    "playerName": "Jakub Stolarczyk",
+    "playerAge": null,
+    "playerCountry": "Poland",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 3,
+    "playerName": "Wout Faes",
+    "playerAge": null,
+    "playerCountry": "Belgium",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 5,
+    "playerName": "Caleb Okoli",
+    "playerAge": null,
+    "playerCountry": "Italy",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 4,
+    "playerName": "Conor Coady",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 23,
+    "playerName": "Jannik Vestergaard",
+    "playerAge": null,
+    "playerCountry": "Denmark",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 2,
+    "playerName": "James Justin",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Left-Back"
+  },
+  {
+    "shirtNumber": 16,
+    "playerName": "Victor Kristiansen",
+    "playerAge": null,
+    "playerCountry": "Denmark",
+    "position": "Left-Back"
+  },
+  {
+    "shirtNumber": 33,
+    "playerName": "Luke Thomas",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Left-Back"
+  },
+  {
+    "shirtNumber": 21,
+    "playerName": "Ricardo Pereira",
+    "playerAge": null,
+    "playerCountry": "Portugal",
+    "position": "Right-Back"
+  },
+  {
+    "shirtNumber": 22,
+    "playerName": "Oliver Skipp",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Defensive Midfield"
+  },
+  {
+    "shirtNumber": 6,
+    "playerName": "Wilfred Ndidi",
+    "playerAge": null,
+    "playerCountry": "Nigeria",
+    "position": "Defensive Midfield"
+  },
+  {
+    "shirtNumber": 24,
+    "playerName": "Boubakary Soumaré",
+    "playerAge": null,
+    "playerCountry": "France",
+    "position": "Defensive Midfield"
+  },
+  {
+    "shirtNumber": 8,
+    "playerName": "Harry Winks",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Defensive Midfield"
+  },
+  {
+    "shirtNumber": 17,
+    "playerName": "Hamza Choudhury",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Defensive Midfield"
+  },
+  {
+    "shirtNumber": 34,
+    "playerName": "Michael Golding",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 11,
+    "playerName": "Bilal El Khannouss",
+    "playerAge": null,
+    "playerCountry": "Morocco",
+    "position": "Attacking Midfield"
+  },
+  {
+    "shirtNumber": 40,
+    "playerName": "Facundo Buonanotte",
+    "playerAge": null,
+    "playerCountry": "Argentina",
+    "position": "Attacking Midfield"
+  },
+  {
+    "shirtNumber": 10,
+    "playerName": "Stephy Mavididi",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Left Winger"
+  },
+  {
+    "shirtNumber": 7,
+    "playerName": "Issahaku Fatawu",
+    "playerAge": null,
+    "playerCountry": "Ghana",
+    "position": "Right Winger"
+  },
+  {
+    "shirtNumber": 14,
+    "playerName": "Bobby De Cordova-Reid",
+    "playerAge": null,
+    "playerCountry": "Jamaica",
+    "position": "Right Winger"
+  },
+  {
+    "shirtNumber": 35,
+    "playerName": "Kasey McAteer",
+    "playerAge": null,
+    "playerCountry": "Ireland",
+    "position": "Right Winger"
+  },
+  {
+    "shirtNumber": 27,
+    "playerName": "Odsonne Edouard",
+    "playerAge": null,
+    "playerCountry": "France",
+    "position": "Centre-Forward"
+  },
+  {
+    "shirtNumber": 20,
+    "playerName": "Patson Daka",
+    "playerAge": null,
+    "playerCountry": "Zambia",
+    "position": "Centre-Forward"
+  },
+  {
+    "shirtNumber": 18,
+    "playerName": "Jordan Ayew",
+    "playerAge": null,
+    "playerCountry": "Ghana",
+    "position": "Centre-Forward"
+  },
+  {
+    "shirtNumber": 9,
+    "playerName": "Jamie Vardy",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Centre-Forward"
+  }
+]

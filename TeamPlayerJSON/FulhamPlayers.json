@@ -1,0 +1,163 @@
+[
+  {
+    "shirtNumber": 1,
+    "playerName": "Bernd Leno",
+    "playerAge": null,
+    "playerCountry": "Germany",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 23,
+    "playerName": "Steven Benda",
+    "playerAge": null,
+    "playerCountry": "Germany",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 5,
+    "playerName": "Joachim Andersen",
+    "playerAge": null,
+    "playerCountry": "Denmark",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 31,
+    "playerName": "Issa Diop",
+    "playerAge": null,
+    "playerCountry": "France",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 3,
+    "playerName": "Calvin Bassey",
+    "playerAge": null,
+    "playerCountry": "Nigeria",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 15,
+    "playerName": "Jorge Cuenca",
+    "playerAge": null,
+    "playerCountry": "Spain",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 33,
+    "playerName": "Antonee Robinson",
+    "playerAge": null,
+    "playerCountry": "United States",
+    "position": "Left-Back"
+  },
+  {
+    "shirtNumber": 30,
+    "playerName": "Ryan Sessegnon",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Left-Back"
+  },
+  {
+    "shirtNumber": 21,
+    "playerName": "Timothy Castagne",
+    "playerAge": null,
+    "playerCountry": "Belgium",
+    "position": "Right-Back"
+  },
+  {
+    "shirtNumber": 2,
+    "playerName": "Kenny Tete",
+    "playerAge": null,
+    "playerCountry": "Netherlands",
+    "position": "Right-Back"
+  },
+  {
+    "shirtNumber": 16,
+    "playerName": "Sander Berge",
+    "playerAge": null,
+    "playerCountry": "Norway",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 6,
+    "playerName": "Harrison Reed",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 20,
+    "playerName": "Saša Lukić",
+    "playerAge": null,
+    "playerCountry": "Serbia",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 10,
+    "playerName": "Tom Cairney",
+    "playerAge": null,
+    "playerCountry": "Scotland",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 32,
+    "playerName": "Emile Smith Rowe",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Attacking Midfield"
+  },
+  {
+    "shirtNumber": 18,
+    "playerName": "Andreas Pereira",
+    "playerAge": null,
+    "playerCountry": "Brazil",
+    "position": "Attacking Midfield"
+  },
+  {
+    "shirtNumber": 17,
+    "playerName": "Alex Iwobi",
+    "playerAge": null,
+    "playerCountry": "Nigeria",
+    "position": "Left Winger"
+  },
+  {
+    "shirtNumber": 8,
+    "playerName": "Harry Wilson",
+    "playerAge": null,
+    "playerCountry": "Wales",
+    "position": "Right Winger"
+  },
+  {
+    "shirtNumber": 19,
+    "playerName": "Reiss Nelson",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Right Winger"
+  },
+  {
+    "shirtNumber": 11,
+    "playerName": "Adama Traoré",
+    "playerAge": null,
+    "playerCountry": "Spain",
+    "position": "Right Winger"
+  },
+  {
+    "shirtNumber": 9,
+    "playerName": "Rodrigo Muniz",
+    "playerAge": null,
+    "playerCountry": "Brazil",
+    "position": "Centre-Forward"
+  },
+  {
+    "shirtNumber": 7,
+    "playerName": "Raúl Jiménez",
+    "playerAge": null,
+    "playerCountry": "Mexico",
+    "position": "Centre-Forward"
+  },
+  {
+    "shirtNumber": 12,
+    "playerName": "Carlos Vinícius",
+    "playerAge": null,
+    "playerCountry": "Brazil",
+    "position": "Centre-Forward"
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "shirtNumber": 1,
+    "playerName": "Dean Henderson",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 30,
+    "playerName": "Matt Turner",
+    "playerAge": null,
+    "playerCountry": "United States",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 31,
+    "playerName": "Remi Matthews",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 6,
+    "playerName": "Marc Guéhi",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 5,
+    "playerName": "Maxence Lacroix",
+    "playerAge": null,
+    "playerCountry": "France",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 34,
+    "playerName": "Chadi Riad",
+    "playerAge": null,
+    "playerCountry": "Morocco",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 27,
+    "playerName": "Trevoh Chalobah",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 26,
+    "playerName": "Chris Richards",
+    "playerAge": null,
+    "playerCountry": "United States",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 4,
+    "playerName": "Rob Holding",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 3,
+    "playerName": "Tyrick Mitchell",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Left-Back"
+  },
+  {
+    "shirtNumber": 12,
+    "playerName": "Daniel Muñoz",
+    "playerAge": null,
+    "playerCountry": "Colombia",
+    "position": "Right-Back"
+  },
+  {
+    "shirtNumber": 17,
+    "playerName": "Nathaniel Clyne",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Right-Back"
+  },
+  {
+    "shirtNumber": 2,
+    "playerName": "Joel Ward",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Right-Back"
+  },
+  {
+    "shirtNumber": 28,
+    "playerName": "Cheick Doucouré",
+    "playerAge": null,
+    "playerCountry": "Mali",
+    "position": "Defensive Midfield"
+  },
+  {
+    "shirtNumber": 20,
+    "playerName": "Adam Wharton",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Defensive Midfield"
+  },
+  {
+    "shirtNumber": 8,
+    "playerName": "Jefferson Lerma",
+    "playerAge": null,
+    "playerCountry": "Colombia",
+    "position": "Defensive Midfield"
+  },
+  {
+    "shirtNumber": 19,
+    "playerName": "Will Hughes",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 15,
+    "playerName": "Jeffrey Schlupp",
+    "playerAge": null,
+    "playerCountry": "Ghana",
+    "position": "Left Midfield"
+  },
+  {
+    "shirtNumber": 10,
+    "playerName": "Eberechi Eze",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Attacking Midfield"
+  },
+  {
+    "shirtNumber": 18,
+    "playerName": "Daichi Kamada",
+    "playerAge": null,
+    "playerCountry": "Japan",
+    "position": "Attacking Midfield"
+  },
+  {
+    "shirtNumber": 11,
+    "playerName": "Matheus França",
+    "playerAge": null,
+    "playerCountry": "Brazil",
+    "position": "Attacking Midfield"
+  },
+  {
+    "shirtNumber": 7,
+    "playerName": "Ismaïla Sarr",
+    "playerAge": null,
+    "playerCountry": "Senegal",
+    "position": "Right Winger"
+  },
+  {
+    "shirtNumber": 9,
+    "playerName": "Eddie Nketiah",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Centre-Forward"
+  },
+  {
+    "shirtNumber": 14,
+    "playerName": "Jean-Philippe Mateta",
+    "playerAge": null,
+    "playerCountry": "France",
+    "position": "Centre-Forward"
+  }
+]

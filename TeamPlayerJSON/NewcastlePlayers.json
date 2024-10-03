@@ -1,0 +1,212 @@
+[
+  {
+    "shirtNumber": 22,
+    "playerName": "Nick Pope",
+    "playerAge": 32,
+    "playerCountry": "England",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 19,
+    "playerName": "Odysseas Vlachodimos",
+    "playerAge": 30,
+    "playerCountry": "Greece",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 1,
+    "playerName": "Martin Dúbravka",
+    "playerAge": 35,
+    "playerCountry": "Slovakia",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 29,
+    "playerName": "Mark Gillespie",
+    "playerAge": 32,
+    "playerCountry": "England",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 26,
+    "playerName": "John Ruddy",
+    "playerAge": 37,
+    "playerCountry": "England",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 4,
+    "playerName": "Sven Botman",
+    "playerAge": 24,
+    "playerCountry": "Netherlands",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 25,
+    "playerName": "Lloyd Kelly",
+    "playerAge": 25,
+    "playerCountry": "England",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 5,
+    "playerName": "Fabian Schär",
+    "playerAge": 32,
+    "playerCountry": "Switzerland",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 33,
+    "playerName": "Dan Burn",
+    "playerAge": 32,
+    "playerCountry": "England",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 6,
+    "playerName": "Jamaal Lascelles",
+    "playerAge": 30,
+    "playerCountry": "England",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 20,
+    "playerName": "Lewis Hall",
+    "playerAge": 20,
+    "playerCountry": "England",
+    "position": "Left-Back"
+  },
+  {
+    "shirtNumber": 13,
+    "playerName": "Matt Targett",
+    "playerAge": 29,
+    "playerCountry": "England",
+    "position": "Left-Back"
+  },
+  {
+    "shirtNumber": 37,
+    "playerName": "Alex Murphy",
+    "playerAge": 20,
+    "playerCountry": "Ireland",
+    "position": "Left-Back"
+  },
+  {
+    "shirtNumber": 21,
+    "playerName": "Tino Livramento",
+    "playerAge": 21,
+    "playerCountry": "England",
+    "position": "Right-Back"
+  },
+  {
+    "shirtNumber": 2,
+    "playerName": "Kieran Trippier",
+    "playerAge": 34,
+    "playerCountry": "England",
+    "position": "Right-Back"
+  },
+  {
+    "shirtNumber": 17,
+    "playerName": "Emil Krafth",
+    "playerAge": 30,
+    "playerCountry": "Sweden",
+    "position": "Right-Back"
+  },
+  {
+    "shirtNumber": 39,
+    "playerName": "Bruno Guimarães",
+    "playerAge": 26,
+    "playerCountry": "Brazil",
+    "position": "Defensive Midfield"
+  },
+  {
+    "shirtNumber": 7,
+    "playerName": "Joelinton",
+    "playerAge": 28,
+    "playerCountry": "Brazil",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 8,
+    "playerName": "Sandro Tonali",
+    "playerAge": 24,
+    "playerCountry": "Italy",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 28,
+    "playerName": "Joe Willock",
+    "playerAge": 25,
+    "playerCountry": "England",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 36,
+    "playerName": "Sean Longstaff",
+    "playerAge": 26,
+    "playerCountry": "England",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 67,
+    "playerName": "Lewis Miley",
+    "playerAge": 18,
+    "playerCountry": "England",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 10,
+    "playerName": "Anthony Gordon",
+    "playerAge": 23,
+    "playerCountry": "England",
+    "position": "Left Winger"
+  },
+  {
+    "shirtNumber": 11,
+    "playerName": "Harvey Barnes",
+    "playerAge": 26,
+    "playerCountry": "England",
+    "position": "Left Winger"
+  },
+  {
+    "shirtNumber": 38,
+    "playerName": "Garang Kuol",
+    "playerAge": 20,
+    "playerCountry": "Australia",
+    "position": "Left Winger"
+  },
+  {
+    "shirtNumber": 24,
+    "playerName": "Miguel Almirón",
+    "playerAge": 30,
+    "playerCountry": "Paraguay",
+    "position": "Right Winger"
+  },
+  {
+    "shirtNumber": 23,
+    "playerName": "Jacob Murphy",
+    "playerAge": 29,
+    "playerCountry": "England",
+    "position": "Right Winger"
+  },
+  {
+    "shirtNumber": 14,
+    "playerName": "Alexander Isak",
+    "playerAge": 25,
+    "playerCountry": "Sweden",
+    "position": "Centre-Forward"
+  },
+  {
+    "shirtNumber": 9,
+    "playerName": "Callum Wilson",
+    "playerAge": 32,
+    "playerCountry": "England",
+    "position": "Centre-Forward"
+  },
+  {
+    "shirtNumber": 18,
+    "playerName": "William Osula",
+    "playerAge": 21,
+    "playerCountry": "Denmark",
+    "position": "Centre-Forward"
+  }
+]

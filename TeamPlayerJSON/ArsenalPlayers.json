@@ -1,0 +1,163 @@
+[
+  {
+    "shirtNumber": 22,
+    "playerName": "David Raya",
+    "playerAge": 29,
+    "playerCountry": "Spain",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 32,
+    "playerName": "Neto",
+    "playerAge": 35,
+    "playerCountry": "Brazil",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 2,
+    "playerName": "William Saliba",
+    "playerAge": 23,
+    "playerCountry": "France",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 6,
+    "playerName": "Gabriel Magalhães",
+    "playerAge": 26,
+    "playerCountry": "Brazil",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 33,
+    "playerName": "Riccardo Calafiori",
+    "playerAge": 22,
+    "playerCountry": "Italy",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 12,
+    "playerName": "Jurrien Timber",
+    "playerAge": 23,
+    "playerCountry": "Netherlands",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 15,
+    "playerName": "Jakub Kiwior",
+    "playerAge": 24,
+    "playerCountry": "Poland",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 17,
+    "playerName": "Oleksandr Zinchenko",
+    "playerAge": 27,
+    "playerCountry": "Ukraine",
+    "position": "Left-Back"
+  },
+  {
+    "shirtNumber": 3,
+    "playerName": "Kieran Tierney",
+    "playerAge": 27,
+    "playerCountry": "Scotland",
+    "position": "Left-Back"
+  },
+  {
+    "shirtNumber": 4,
+    "playerName": "Ben White",
+    "playerAge": 26,
+    "playerCountry": "England",
+    "position": "Right-Back"
+  },
+  {
+    "shirtNumber": 18,
+    "playerName": "Takehiro Tomiyasu",
+    "playerAge": 25,
+    "playerCountry": "Japan",
+    "position": "Right-Back"
+  },
+  {
+    "shirtNumber": 41,
+    "playerName": "Declan Rice",
+    "playerAge": 25,
+    "playerCountry": "England",
+    "position": "Defensive Midfield"
+  },
+  {
+    "shirtNumber": 5,
+    "playerName": "Thomas Partey",
+    "playerAge": 31,
+    "playerCountry": "Ghana",
+    "position": "Defensive Midfield"
+  },
+  {
+    "shirtNumber": 20,
+    "playerName": "Jorginho",
+    "playerAge": 32,
+    "playerCountry": "Italy",
+    "position": "Defensive Midfield"
+  },
+  {
+    "shirtNumber": 23,
+    "playerName": "Mikel Merino",
+    "playerAge": 28,
+    "playerCountry": "Spain",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 8,
+    "playerName": "Martin Ødegaard",
+    "playerAge": 25,
+    "playerCountry": "Norway",
+    "position": "Attacking Midfield"
+  },
+  {
+    "shirtNumber": 53,
+    "playerName": "Ethan Nwaneri",
+    "playerAge": 17,
+    "playerCountry": "England",
+    "position": "Attacking Midfield"
+  },
+  {
+    "shirtNumber": 11,
+    "playerName": "Gabriel Martinelli",
+    "playerAge": 23,
+    "playerCountry": "Brazil",
+    "position": "Left Winger"
+  },
+  {
+    "shirtNumber": 19,
+    "playerName": "Leandro Trossard",
+    "playerAge": 29,
+    "playerCountry": "Belgium",
+    "position": "Left Winger"
+  },
+  {
+    "shirtNumber": 30,
+    "playerName": "Raheem Sterling",
+    "playerAge": 29,
+    "playerCountry": "England",
+    "position": "Left Winger"
+  },
+  {
+    "shirtNumber": 7,
+    "playerName": "Bukayo Saka",
+    "playerAge": 23,
+    "playerCountry": "England",
+    "position": "Right Winger"
+  },
+  {
+    "shirtNumber": 29,
+    "playerName": "Kai Havertz",
+    "playerAge": 25,
+    "playerCountry": "Germany",
+    "position": "Centre-Forward"
+  },
+  {
+    "shirtNumber": 9,
+    "playerName": "Gabriel Jesus",
+    "playerAge": 27,
+    "playerCountry": "Brazil",
+    "position": "Centre-Forward"
+  }
+]

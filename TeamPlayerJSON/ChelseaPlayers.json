@@ -1,0 +1,205 @@
+[
+  {
+    "shirtNumber": 1,
+    "playerName": "Robert Sánchez",
+    "playerAge": 26,
+    "playerCountry": "Spain",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 12,
+    "playerName": "Filip Jørgensen",
+    "playerAge": 22,
+    "playerCountry": "Denmark",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 13,
+    "playerName": "Marcus Bettinelli",
+    "playerAge": 32,
+    "playerCountry": "England",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 47,
+    "playerName": "Lucas Bergström",
+    "playerAge": 22,
+    "playerCountry": "Finland",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 6,
+    "playerName": "Levi Colwill",
+    "playerAge": 21,
+    "playerCountry": "England",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 2,
+    "playerName": "Axel Disasi",
+    "playerAge": 26,
+    "playerCountry": "France",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 5,
+    "playerName": "Benoît Badiashile",
+    "playerAge": 23,
+    "playerCountry": "France",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 29,
+    "playerName": "Wesley Fofana",
+    "playerAge": 23,
+    "playerCountry": "France",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 4,
+    "playerName": "Tosin Adarabioyo",
+    "playerAge": 27,
+    "playerCountry": "England",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 3,
+    "playerName": "Marc Cucurella",
+    "playerAge": 26,
+    "playerCountry": "Spain",
+    "position": "Left-Back"
+  },
+  {
+    "shirtNumber": 21,
+    "playerName": "Ben Chilwell",
+    "playerAge": 27,
+    "playerCountry": "England",
+    "position": "Left-Back"
+  },
+  {
+    "shirtNumber": 40,
+    "playerName": "Renato Veiga",
+    "playerAge": 21,
+    "playerCountry": "Portugal",
+    "position": "Left-Back"
+  },
+  {
+    "shirtNumber": 24,
+    "playerName": "Reece James",
+    "playerAge": 24,
+    "playerCountry": "England",
+    "position": "Right-Back"
+  },
+  {
+    "shirtNumber": 27,
+    "playerName": "Malo Gusto",
+    "playerAge": 21,
+    "playerCountry": "France",
+    "position": "Right-Back"
+  },
+  {
+    "shirtNumber": 25,
+    "playerName": "Moisés Caicedo",
+    "playerAge": 22,
+    "playerCountry": "Ecuador",
+    "position": "Defensive Midfield"
+  },
+  {
+    "shirtNumber": 45,
+    "playerName": "Roméo Lavia",
+    "playerAge": 20,
+    "playerCountry": "Belgium",
+    "position": "Defensive Midfield"
+  },
+  {
+    "shirtNumber": 8,
+    "playerName": "Enzo Fernández",
+    "playerAge": 23,
+    "playerCountry": "Argentina",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 22,
+    "playerName": "Kiernan Dewsbury-Hall",
+    "playerAge": 26,
+    "playerCountry": "England",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 17,
+    "playerName": "Carney Chukwuemeka",
+    "playerAge": 20,
+    "playerCountry": "England",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 31,
+    "playerName": "Cesare Casadei",
+    "playerAge": 21,
+    "playerCountry": "Italy",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 20,
+    "playerName": "Cole Palmer",
+    "playerAge": 22,
+    "playerCountry": "England",
+    "position": "Attacking Midfield"
+  },
+  {
+    "shirtNumber": 10,
+    "playerName": "Mykhaylo Mudryk",
+    "playerAge": 23,
+    "playerCountry": "Ukraine",
+    "position": "Left Winger"
+  },
+  {
+    "shirtNumber": 19,
+    "playerName": "Jadon Sancho",
+    "playerAge": 24,
+    "playerCountry": "England",
+    "position": "Left Winger"
+  },
+  {
+    "shirtNumber": 7,
+    "playerName": "Pedro Neto",
+    "playerAge": 24,
+    "playerCountry": "Portugal",
+    "position": "Right Winger"
+  },
+  {
+    "shirtNumber": 11,
+    "playerName": "Noni Madueke",
+    "playerAge": 22,
+    "playerCountry": "England",
+    "position": "Right Winger"
+  },
+  {
+    "shirtNumber": 14,
+    "playerName": "João Félix",
+    "playerAge": 24,
+    "playerCountry": "Portugal",
+    "position": "Second Striker"
+  },
+  {
+    "shirtNumber": 18,
+    "playerName": "Christopher Nkunku",
+    "playerAge": 26,
+    "playerCountry": "France",
+    "position": "Centre-Forward"
+  },
+  {
+    "shirtNumber": 15,
+    "playerName": "Nicolas Jackson",
+    "playerAge": 23,
+    "playerCountry": "Senegal",
+    "position": "Centre-Forward"
+  },
+  {
+    "shirtNumber": 38,
+    "playerName": "Marc Guiu",
+    "playerAge": 18,
+    "playerCountry": "Spain",
+    "position": "Centre-Forward"
+  }
+]

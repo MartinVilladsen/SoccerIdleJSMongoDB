@@ -1,0 +1,177 @@
+[
+  {
+    "shirtNumber": 23,
+    "playerName": "Emiliano Martínez",
+    "playerAge": 32,
+    "playerCountry": "Argentina",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 18,
+    "playerName": "Joe Gauci",
+    "playerAge": 24,
+    "playerCountry": "Australia",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 25,
+    "playerName": "Robin Olsen",
+    "playerAge": 34,
+    "playerCountry": "Sweden",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 14,
+    "playerName": "Pau Torres",
+    "playerAge": 27,
+    "playerCountry": "Spain",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 4,
+    "playerName": "Ezri Konsa",
+    "playerAge": 26,
+    "playerCountry": "England",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 3,
+    "playerName": "Diego Carlos",
+    "playerAge": 31,
+    "playerCountry": "Brazil",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 5,
+    "playerName": "Tyrone Mings",
+    "playerAge": 31,
+    "playerCountry": "England",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 30,
+    "playerName": "Kortney Hause",
+    "playerAge": 29,
+    "playerCountry": "England",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 26,
+    "playerName": "Lamare Bogarde",
+    "playerAge": 20,
+    "playerCountry": "Netherlands",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 22,
+    "playerName": "Ian Maatsen",
+    "playerAge": 22,
+    "playerCountry": "Netherlands",
+    "position": "Left-Back"
+  },
+  {
+    "shirtNumber": 12,
+    "playerName": "Lucas Digne",
+    "playerAge": 31,
+    "playerCountry": "France",
+    "position": "Left-Back"
+  },
+  {
+    "shirtNumber": 2,
+    "playerName": "Matty Cash",
+    "playerAge": 27,
+    "playerCountry": "Poland",
+    "position": "Right-Back"
+  },
+  {
+    "shirtNumber": 20,
+    "playerName": "Kosta Nedeljkovic",
+    "playerAge": 18,
+    "playerCountry": "Serbia",
+    "position": "Right-Back"
+  },
+  {
+    "shirtNumber": 24,
+    "playerName": "Amadou Onana",
+    "playerAge": 23,
+    "playerCountry": "Belgium",
+    "position": "Defensive Midfield"
+  },
+  {
+    "shirtNumber": 44,
+    "playerName": "Boubacar Kamara",
+    "playerAge": 24,
+    "playerCountry": "France",
+    "position": "Defensive Midfield"
+  },
+  {
+    "shirtNumber": 7,
+    "playerName": "John McGinn",
+    "playerAge": 29,
+    "playerCountry": "Scotland",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 8,
+    "playerName": "Youri Tielemans",
+    "playerAge": 27,
+    "playerCountry": "Belgium",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 6,
+    "playerName": "Ross Barkley",
+    "playerAge": 30,
+    "playerCountry": "England",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 41,
+    "playerName": "Jacob Ramsey",
+    "playerAge": 23,
+    "playerCountry": "England",
+    "position": "Attacking Midfield"
+  },
+  {
+    "shirtNumber": 27,
+    "playerName": "Morgan Rogers",
+    "playerAge": 22,
+    "playerCountry": "England",
+    "position": "Attacking Midfield"
+  },
+  {
+    "shirtNumber": 10,
+    "playerName": "Emiliano Buendía",
+    "playerAge": 27,
+    "playerCountry": "Argentina",
+    "position": "Attacking Midfield"
+  },
+  {
+    "shirtNumber": 19,
+    "playerName": "Jaden Philogene",
+    "playerAge": 22,
+    "playerCountry": "England",
+    "position": "Left Winger"
+  },
+  {
+    "shirtNumber": 31,
+    "playerName": "Leon Bailey",
+    "playerAge": 27,
+    "playerCountry": "Jamaica",
+    "position": "Right Winger"
+  },
+  {
+    "shirtNumber": 11,
+    "playerName": "Ollie Watkins",
+    "playerAge": 28,
+    "playerCountry": "England",
+    "position": "Centre-Forward"
+  },
+  {
+    "shirtNumber": 9,
+    "playerName": "Jhon Durán",
+    "playerAge": 20,
+    "playerCountry": "Colombia",
+    "position": "Centre-Forward"
+  }
+]

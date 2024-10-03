@@ -1,0 +1,163 @@
+[
+  {
+    "shirtNumber": 1,
+    "playerName": "Alisson",
+    "playerAge": 32,
+    "playerCountry": "Brazil",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 62,
+    "playerName": "Caoimhín Kelleher",
+    "playerAge": 25,
+    "playerCountry": "Ireland",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 56,
+    "playerName": "Vitezslav Jaros",
+    "playerAge": 23,
+    "playerCountry": "Czech Republic",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 5,
+    "playerName": "Ibrahima Konaté",
+    "playerAge": 25,
+    "playerCountry": "France",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 4,
+    "playerName": "Virgil van Dijk",
+    "playerAge": 33,
+    "playerCountry": "Netherlands",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 2,
+    "playerName": "Joe Gomez",
+    "playerAge": 27,
+    "playerCountry": "England",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 78,
+    "playerName": "Jarell Quansah",
+    "playerAge": 21,
+    "playerCountry": "England",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 26,
+    "playerName": "Andrew Robertson",
+    "playerAge": 30,
+    "playerCountry": "Scotland",
+    "position": "Left-Back"
+  },
+  {
+    "shirtNumber": 21,
+    "playerName": "Konstantinos Tsimikas",
+    "playerAge": 28,
+    "playerCountry": "Greece",
+    "position": "Left-Back"
+  },
+  {
+    "shirtNumber": 66,
+    "playerName": "Trent Alexander-Arnold",
+    "playerAge": 25,
+    "playerCountry": "England",
+    "position": "Right-Back"
+  },
+  {
+    "shirtNumber": 84,
+    "playerName": "Conor Bradley",
+    "playerAge": 21,
+    "playerCountry": "Northern Ireland",
+    "position": "Right-Back"
+  },
+  {
+    "shirtNumber": 3,
+    "playerName": "Wataru Endo",
+    "playerAge": 31,
+    "playerCountry": "Japan",
+    "position": "Defensive Midfield"
+  },
+  {
+    "shirtNumber": 8,
+    "playerName": "Dominik Szoboszlai",
+    "playerAge": 23,
+    "playerCountry": "Hungary",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 10,
+    "playerName": "Alexis Mac Allister",
+    "playerAge": 25,
+    "playerCountry": "Argentina",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 38,
+    "playerName": "Ryan Gravenberch",
+    "playerAge": 22,
+    "playerCountry": "Netherlands",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 17,
+    "playerName": "Curtis Jones",
+    "playerAge": 23,
+    "playerCountry": "England",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 19,
+    "playerName": "Harvey Elliott",
+    "playerAge": 21,
+    "playerCountry": "England",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 7,
+    "playerName": "Luis Díaz",
+    "playerAge": 27,
+    "playerCountry": "Colombia",
+    "position": "Left Winger"
+  },
+  {
+    "shirtNumber": 18,
+    "playerName": "Cody Gakpo",
+    "playerAge": 25,
+    "playerCountry": "Netherlands",
+    "position": "Left Winger"
+  },
+  {
+    "shirtNumber": 14,
+    "playerName": "Federico Chiesa",
+    "playerAge": 26,
+    "playerCountry": "Italy",
+    "position": "Left Winger"
+  },
+  {
+    "shirtNumber": 11,
+    "playerName": "Mohamed Salah",
+    "playerAge": 32,
+    "playerCountry": "Egypt",
+    "position": "Right Winger"
+  },
+  {
+    "shirtNumber": 9,
+    "playerName": "Darwin Núñez",
+    "playerAge": 25,
+    "playerCountry": "Uruguay",
+    "position": "Centre-Forward"
+  },
+  {
+    "shirtNumber": 20,
+    "playerName": "Diogo Jota",
+    "playerAge": 27,
+    "playerCountry": "Portugal",
+    "position": "Centre-Forward"
+  }
+]

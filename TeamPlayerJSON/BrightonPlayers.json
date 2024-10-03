@@ -1,0 +1,198 @@
+[
+  {
+    "shirtNumber": 1,
+    "playerName": "Bart Verbruggen",
+    "playerAge": null,
+    "playerCountry": "Netherlands",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 23,
+    "playerName": "Jason Steele",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 29,
+    "playerName": "Jan Paul van Hecke",
+    "playerAge": null,
+    "playerCountry": "Netherlands",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 3,
+    "playerName": "Igor",
+    "playerAge": null,
+    "playerCountry": "Brazil",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 4,
+    "playerName": "Adam Webster",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 5,
+    "playerName": "Lewis Dunk",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 24,
+    "playerName": "Ferdi Kadıoğlu",
+    "playerAge": null,
+    "playerCountry": "Türkiye",
+    "position": "Left-Back"
+  },
+  {
+    "shirtNumber": 30,
+    "playerName": "Pervis Estupiñán",
+    "playerAge": null,
+    "playerCountry": "Ecuador",
+    "position": "Left-Back"
+  },
+  {
+    "shirtNumber": 47,
+    "playerName": "Imari Samuels",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Left-Back"
+  },
+  {
+    "shirtNumber": 41,
+    "playerName": "Jack Hinshelwood",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Right-Back"
+  },
+  {
+    "shirtNumber": 2,
+    "playerName": "Tariq Lamptey",
+    "playerAge": null,
+    "playerCountry": "Ghana",
+    "position": "Right-Back"
+  },
+  {
+    "shirtNumber": 34,
+    "playerName": "Joël Veltman",
+    "playerAge": null,
+    "playerCountry": "Netherlands",
+    "position": "Right-Back"
+  },
+  {
+    "shirtNumber": 27,
+    "playerName": "Mats Wieffer",
+    "playerAge": null,
+    "playerCountry": "Netherlands",
+    "position": "Defensive Midfield"
+  },
+  {
+    "shirtNumber": 20,
+    "playerName": "Carlos Baleba",
+    "playerAge": null,
+    "playerCountry": "Cameroon",
+    "position": "Defensive Midfield"
+  },
+  {
+    "shirtNumber": 33,
+    "playerName": "Matt O'Riley",
+    "playerAge": null,
+    "playerCountry": "Denmark",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 15,
+    "playerName": "Jakub Moder",
+    "playerAge": null,
+    "playerCountry": "Poland",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 26,
+    "playerName": "Yasin Ayari",
+    "playerAge": null,
+    "playerCountry": "Sweden",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 6,
+    "playerName": "James Milner",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 10,
+    "playerName": "Julio Enciso",
+    "playerAge": null,
+    "playerCountry": "Paraguay",
+    "position": "Attacking Midfield"
+  },
+  {
+    "shirtNumber": 22,
+    "playerName": "Kaoru Mitoma",
+    "playerAge": null,
+    "playerCountry": "Japan",
+    "position": "Left Winger"
+  },
+  {
+    "shirtNumber": 11,
+    "playerName": "Simon Adingra",
+    "playerAge": null,
+    "playerCountry": "Cote d'Ivoire",
+    "position": "Right Winger"
+  },
+  {
+    "shirtNumber": 17,
+    "playerName": "Yankuba Minteh",
+    "playerAge": null,
+    "playerCountry": "The Gambia",
+    "position": "Right Winger"
+  },
+  {
+    "shirtNumber": 8,
+    "playerName": "Brajan Gruda",
+    "playerAge": null,
+    "playerCountry": "Germany",
+    "position": "Right Winger"
+  },
+  {
+    "shirtNumber": 7,
+    "playerName": "Solly March",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Right Winger"
+  },
+  {
+    "shirtNumber": 9,
+    "playerName": "João Pedro",
+    "playerAge": null,
+    "playerCountry": "Brazil",
+    "position": "Centre-Forward"
+  },
+  {
+    "shirtNumber": 28,
+    "playerName": "Evan Ferguson",
+    "playerAge": null,
+    "playerCountry": "Ireland",
+    "position": "Centre-Forward"
+  },
+  {
+    "shirtNumber": 14,
+    "playerName": "Georginio Rutter",
+    "playerAge": null,
+    "playerCountry": "France",
+    "position": "Centre-Forward"
+  },
+  {
+    "shirtNumber": 18,
+    "playerName": "Danny Welbeck",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Centre-Forward"
+  }
+]

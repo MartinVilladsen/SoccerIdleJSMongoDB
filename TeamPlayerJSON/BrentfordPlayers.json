@@ -1,0 +1,205 @@
+[
+  {
+    "shirtNumber": 1,
+    "playerName": "Mark Flekken",
+    "playerAge": null,
+    "playerCountry": "Netherlands",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 12,
+    "playerName": "Hákon Rafn Valdimarsson",
+    "playerAge": null,
+    "playerCountry": "Iceland",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 13,
+    "playerName": "Matthew Cox",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 22,
+    "playerName": "Nathan Collins",
+    "playerAge": null,
+    "playerCountry": "Ireland",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 4,
+    "playerName": "Sepp van den Berg",
+    "playerAge": null,
+    "playerCountry": "Netherlands",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 20,
+    "playerName": "Kristoffer Ajer",
+    "playerAge": null,
+    "playerCountry": "Norway",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 5,
+    "playerName": "Ethan Pinnock",
+    "playerAge": null,
+    "playerCountry": "Jamaica",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 16,
+    "playerName": "Ben Mee",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 36,
+    "playerName": "Ji-soo Kim",
+    "playerAge": null,
+    "playerCountry": "Korea, South",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 3,
+    "playerName": "Rico Henry",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Left-Back"
+  },
+  {
+    "shirtNumber": 21,
+    "playerName": "Jayden Meghoma",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Left-Back"
+  },
+  {
+    "shirtNumber": 2,
+    "playerName": "Aaron Hickey",
+    "playerAge": null,
+    "playerCountry": "Scotland",
+    "position": "Right-Back"
+  },
+  {
+    "shirtNumber": 30,
+    "playerName": "Mads Roerslev",
+    "playerAge": null,
+    "playerCountry": "Denmark",
+    "position": "Right-Back"
+  },
+  {
+    "shirtNumber": 27,
+    "playerName": "Vitaly Janelt",
+    "playerAge": null,
+    "playerCountry": "Germany",
+    "position": "Defensive Midfield"
+  },
+  {
+    "shirtNumber": 6,
+    "playerName": "Christian Nørgaard",
+    "playerAge": null,
+    "playerCountry": "Denmark",
+    "position": "Defensive Midfield"
+  },
+  {
+    "shirtNumber": 26,
+    "playerName": "Yunus Emre Konak",
+    "playerAge": null,
+    "playerCountry": "Türkiye",
+    "position": "Defensive Midfield"
+  },
+  {
+    "shirtNumber": 8,
+    "playerName": "Mathias Jensen",
+    "playerAge": null,
+    "playerCountry": "Denmark",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 10,
+    "playerName": "Josh Dasilva",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 32,
+    "playerName": "Paris Maghoma",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 28,
+    "playerName": "Ryan Trevitt",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 14,
+    "playerName": "Fábio Carvalho",
+    "playerAge": null,
+    "playerCountry": "Portugal",
+    "position": "Attacking Midfield"
+  },
+  {
+    "shirtNumber": 18,
+    "playerName": "Yegor Yarmolyuk",
+    "playerAge": null,
+    "playerCountry": "Ukraine",
+    "position": "Attacking Midfield"
+  },
+  {
+    "shirtNumber": 7,
+    "playerName": "Kevin Schade",
+    "playerAge": null,
+    "playerCountry": "Germany",
+    "position": "Left Winger"
+  },
+  {
+    "shirtNumber": 23,
+    "playerName": "Keane Lewis-Potter",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Left Winger"
+  },
+  {
+    "shirtNumber": 24,
+    "playerName": "Mikkel Damsgaard",
+    "playerAge": null,
+    "playerCountry": "Denmark",
+    "position": "Left Winger"
+  },
+  {
+    "shirtNumber": 39,
+    "playerName": "Gustavo Nunes",
+    "playerAge": null,
+    "playerCountry": "Brazil",
+    "position": "Left Winger"
+  },
+  {
+    "shirtNumber": 19,
+    "playerName": "Bryan Mbeumo",
+    "playerAge": null,
+    "playerCountry": "Cameroon",
+    "position": "Right Winger"
+  },
+  {
+    "shirtNumber": 11,
+    "playerName": "Yoane Wissa",
+    "playerAge": null,
+    "playerCountry": "DR Congo",
+    "position": "Centre-Forward"
+  },
+  {
+    "shirtNumber": 9,
+    "playerName": "Igor Thiago",
+    "playerAge": null,
+    "playerCountry": "Brazil",
+    "position": "Centre-Forward"
+  }
+]

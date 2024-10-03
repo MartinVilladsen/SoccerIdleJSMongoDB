@@ -1,0 +1,192 @@
+
+[
+  {
+    "shirtNumber": 26,
+    "playerName": "Matz Sels",
+    "playerAge": null,
+    "playerCountry": "Belgium",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 33,
+    "playerName": "Carlos Miguel",
+    "playerAge": null,
+    "playerCountry": "Brazil",
+    "position": "Goalkeeper"
+  },
+  {
+    "shirtNumber": 5,
+    "playerName": "Murillo",
+    "playerAge": null,
+    "playerCountry": "Brazil",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 31,
+    "playerName": "Nikola Milenković",
+    "playerAge": null,
+    "playerCountry": "Serbia",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 4,
+    "playerName": "Morato",
+    "playerAge": null,
+    "playerCountry": "Brazil",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 12,
+    "playerName": "Andrew Omobamidele",
+    "playerAge": null,
+    "playerCountry": "Ireland",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 30,
+    "playerName": "Willy Boly",
+    "playerAge": null,
+    "playerCountry": "Cote d'Ivoire",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 44,
+    "playerName": "Zach Abbott",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Centre-Back"
+  },
+  {
+    "shirtNumber": 19,
+    "playerName": "Álex Moreno",
+    "playerAge": null,
+    "playerCountry": "Spain",
+    "position": "Left-Back"
+  },
+  {
+    "shirtNumber": 15,
+    "playerName": "Harry Toffolo",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Left-Back"
+  },
+  {
+    "shirtNumber": 7,
+    "playerName": "Neco Williams",
+    "playerAge": null,
+    "playerCountry": "Wales",
+    "position": "Right-Back"
+  },
+  {
+    "shirtNumber": 34,
+    "playerName": "Ola Aina",
+    "playerAge": null,
+    "playerCountry": "Nigeria",
+    "position": "Right-Back"
+  },
+  {
+    "shirtNumber": 6,
+    "playerName": "Ibrahim Sangaré",
+    "playerAge": null,
+    "playerCountry": "Cote d'Ivoire",
+    "position": "Defensive Midfield"
+  },
+  {
+    "shirtNumber": 28,
+    "playerName": "Danilo",
+    "playerAge": null,
+    "playerCountry": "Brazil",
+    "position": "Defensive Midfield"
+  },
+  {
+    "shirtNumber": 8,
+    "playerName": "Elliot Anderson",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 18,
+    "playerName": "James Ward-Prowse",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 16,
+    "playerName": "Nicolás Domínguez",
+    "playerAge": null,
+    "playerCountry": "Argentina",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 22,
+    "playerName": "Ryan Yates",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Central Midfield"
+  },
+  {
+    "shirtNumber": 10,
+    "playerName": "Morgan Gibbs-White",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Attacking Midfield"
+  },
+  {
+    "shirtNumber": 14,
+    "playerName": "Callum Hudson-Odoi",
+    "playerAge": null,
+    "playerCountry": "England",
+    "position": "Left Winger"
+  },
+  {
+    "shirtNumber": 24,
+    "playerName": "Ramón Sosa",
+    "playerAge": null,
+    "playerCountry": "Paraguay",
+    "position": "Left Winger"
+  },
+  {
+    "shirtNumber": 20,
+    "playerName": "Jota Silva",
+    "playerAge": null,
+    "playerCountry": "Portugal",
+    "position": "Left Winger"
+  },
+  {
+    "shirtNumber": 21,
+    "playerName": "Anthony Elanga",
+    "playerAge": null,
+    "playerCountry": "Sweden",
+    "position": "Right Winger"
+  },
+  {
+    "shirtNumber": 17,
+    "playerName": "Eric da Silva Moreira",
+    "playerAge": null,
+    "playerCountry": "Germany",
+    "position": "Right Winger"
+  },
+  {
+    "shirtNumber": 9,
+    "playerName": "Taiwo Awoniyi",
+    "playerAge": null,
+    "playerCountry": "Nigeria",
+    "position": "Centre-Forward"
+  },
+  {
+    "shirtNumber": 11,
+    "playerName": "Chris Wood",
+    "playerAge": null,
+    "playerCountry": "New Zealand",
+    "position": "Centre-Forward"
+  },
+  {
+    "shirtNumber": 25,
+    "playerName": "Emmanuel Dennis",
+    "playerAge": null,
+    "playerCountry": "Nigeria",
+    "position": "Centre-Forward"
+  }
+]
