@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    background-color: rgb(114, 114, 114);
+    background-image: url('/ClubLogos/PremierLeague.png'), url('/ClubLogos/PLBackground.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: cover;
+    background-position: 10px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 80%;
+    margin: 0 auto;
+}
+
+td {
+    padding: 10px;
+    text-align: center;
+    width: 20%;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+

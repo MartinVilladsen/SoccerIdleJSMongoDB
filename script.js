@@ -1,13 +1,12 @@
-const { response } = require("express");
-
 document.addEventListener('DOMContentLoaded', () => {
-    const teamName = "Liverpool"
-    fetch(`/${teamName}`)
+    const url = window.location.pathname;
+    console.log(url);
+    fetch(`/api/teams${url}`)
         .then(response => response.json())
-        .then(data => {
-            console.log(data);
+        .then(teams => {
             const tableBody = document.getElementById('teams-body');
-                data.team.players.forEach(player => {
+            teams.forEach(team => {
+                team.players.forEach(player => {
                     const row = document.createElement('tr');
 
                     const teamCell = document.createElement('td');
@@ -36,6 +35,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
                     tableBody.appendChild(row);
                 });
+            });
         })
         .catch(error => console.error('Error fetching data:', error));
 });

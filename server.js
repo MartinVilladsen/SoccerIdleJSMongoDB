@@ -23,10 +23,11 @@ const Teams = mongoose.model('teams', teamSchema);
 
 app.use(express.static(path.join(__dirname)));
 
-app.get('/api/teams/', async (req, res) => {
-    const { teamName } = req.params
+app.get('/api/teams/:teamName', async (req, res) => {
+    const {teamName} = req.params
+    console.log(teamName);
     try {
-        const teams = await Teams.find();
+        const teams = await Teams.find({teamName: `${teamName}`});
         res.json(teams);
     } catch (err) {
         res.status(500).json({ message: err.message });
@@ -34,22 +35,16 @@ app.get('/api/teams/', async (req, res) => {
 });
 
 app.get('/:teamName', async (req, res) => {
-    const {teamName} = req.params
-    try {
-        const team = await Teams.find({teamName: `${teamName}`})
-        res.json(team)
-        //res.sendFile(path.join(__dirname, 'views', 'LiverpoolPlayers.html'))
-    } catch (err) {
-        err
-    }
+    res.sendFile(path.join(__dirname, 'views', 'TeamPlayers.html'));
 })
+
 
 app.get('/', (req, res) => {
     res.sendFile(path.join(__dirname, 'homepage.html'))
 });
 
 app.get('/LiverpoolPlayers', (req, res) => {
-    res.sendFile(path.join(__dirname, 'views', 'LiverpoolPlayers.html'));
+    res.sendFile(path.join(__dirname, 'views', 'TeamPlayers.html'));
 });
 
 
