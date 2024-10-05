@@ -1,6 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
     const url = window.location.pathname;
-    console.log(url);
     fetch(`/api/teams${url}`)
         .then(response => response.json())
         .then(teams => {

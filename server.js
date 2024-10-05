@@ -21,14 +21,24 @@ const teamSchema = new mongoose.Schema({
 
 const Teams = mongoose.model('teams', teamSchema);
 
+const Players = mongoose.model('players', playerSchema)
+
 app.use(express.static(path.join(__dirname)));
 
 app.get('/api/teams/:teamName', async (req, res) => {
     const {teamName} = req.params
-    console.log(teamName);
     try {
         const teams = await Teams.find({teamName: `${teamName}`});
         res.json(teams);
+    } catch (err) {
+        res.status(500).json({ message: err.message });
+    }
+});
+
+app.get('/api/players', async (req, res) => {
+    try {
+        const players = await Players.find();
+        res.json(players);
     } catch (err) {
         res.status(500).json({ message: err.message });
     }
@@ -43,8 +53,8 @@ app.get('/', (req, res) => {
     res.sendFile(path.join(__dirname, 'homepage.html'))
 });
 
-app.get('/LiverpoolPlayers', (req, res) => {
-    res.sendFile(path.join(__dirname, 'views', 'TeamPlayers.html'));
+app.get('/game/WhoAreYa', (req, res) => {
+    res.sendFile(path.join(__dirname, 'views', 'Whoareya.html'));
 });
 
 

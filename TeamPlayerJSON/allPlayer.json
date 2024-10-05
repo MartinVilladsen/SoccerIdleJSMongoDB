@@ -1,0 +1,1234 @@
+[
+    {
+      "shirtNumber": 22,
+      "playerName": "David Raya",
+      "playerAge": 29,
+      "playerCountry": "Spain",
+      "position": "Goalkeeper",
+      "club": "Arsenal"
+    },
+    {
+      "shirtNumber": 32,
+      "playerName": "Neto",
+      "playerAge": 35,
+      "playerCountry": "Brazil",
+      "position": "Goalkeeper",
+      "club": "Arsenal"
+    },
+    {
+      "shirtNumber": 2,
+      "playerName": "William Saliba",
+      "playerAge": 23,
+      "playerCountry": "France",
+      "position": "Centre-Back",
+      "club": "Arsenal"
+    },
+    {
+      "shirtNumber": 6,
+      "playerName": "Gabriel Magalhães",
+      "playerAge": 26,
+      "playerCountry": "Brazil",
+      "position": "Centre-Back",
+      "club": "Arsenal"
+    },
+    {
+      "shirtNumber": 33,
+      "playerName": "Riccardo Calafiori",
+      "playerAge": 22,
+      "playerCountry": "Italy",
+      "position": "Centre-Back",
+      "club": "Arsenal"
+    },
+    {
+      "shirtNumber": 12,
+      "playerName": "Jurrien Timber",
+      "playerAge": 23,
+      "playerCountry": "Netherlands",
+      "position": "Centre-Back",
+      "club": "Arsenal"
+    },
+    {
+      "shirtNumber": 15,
+      "playerName": "Jakub Kiwior",
+      "playerAge": 24,
+      "playerCountry": "Poland",
+      "position": "Centre-Back",
+      "club": "Arsenal"
+    },
+    {
+      "shirtNumber": 17,
+      "playerName": "Oleksandr Zinchenko",
+      "playerAge": 27,
+      "playerCountry": "Ukraine",
+      "position": "Left-Back",
+      "club": "Arsenal"
+    },
+    {
+      "shirtNumber": 3,
+      "playerName": "Kieran Tierney",
+      "playerAge": 27,
+      "playerCountry": "Scotland",
+      "position": "Left-Back",
+      "club": "Arsenal"
+    },
+    {
+      "shirtNumber": 4,
+      "playerName": "Ben White",
+      "playerAge": 26,
+      "playerCountry": "England",
+      "position": "Right-Back",
+      "club": "Arsenal"
+    },
+    {
+      "shirtNumber": 18,
+      "playerName": "Takehiro Tomiyasu",
+      "playerAge": 25,
+      "playerCountry": "Japan",
+      "position": "Right-Back",
+      "club": "Arsenal"
+    },
+    {
+      "shirtNumber": 41,
+      "playerName": "Declan Rice",
+      "playerAge": 25,
+      "playerCountry": "England",
+      "position": "Defensive Midfield",
+      "club": "Arsenal"
+    },
+    {
+      "shirtNumber": 5,
+      "playerName": "Thomas Partey",
+      "playerAge": 31,
+      "playerCountry": "Ghana",
+      "position": "Defensive Midfield",
+      "club": "Arsenal"
+    },
+    {
+      "shirtNumber": 20,
+      "playerName": "Jorginho",
+      "playerAge": 32,
+      "playerCountry": "Italy",
+      "position": "Defensive Midfield",
+      "club": "Arsenal"
+    },
+    {
+      "shirtNumber": 23,
+      "playerName": "Mikel Merino",
+      "playerAge": 28,
+      "playerCountry": "Spain",
+      "position": "Central Midfield"
+      ,"club": "Arsenal"
+    },
+    {
+      "shirtNumber": 8,
+      "playerName": "Martin Ødegaard",
+      "playerAge": 25,
+      "playerCountry": "Norway",
+      "position": "Attacking Midfield"
+      ,"club": "Arsenal"
+    },
+    {
+      "shirtNumber": 53,
+      "playerName": "Ethan Nwaneri",
+      "playerAge": 17,
+      "playerCountry": "England",
+      "position": "Attacking Midfield"
+      ,"club": "Arsenal"
+    },
+    {
+      "shirtNumber": 11,
+      "playerName": "Gabriel Martinelli",
+      "playerAge": 23,
+      "playerCountry": "Brazil",
+      "position": "Left Winger"
+      ,"club": "Arsenal"
+    },
+    {
+      "shirtNumber": 19,
+      "playerName": "Leandro Trossard",
+      "playerAge": 29,
+      "playerCountry": "Belgium",
+      "position": "Left Winger"
+      ,"club": "Arsenal"
+    },
+    {
+      "shirtNumber": 30,
+      "playerName": "Raheem Sterling",
+      "playerAge": 29,
+      "playerCountry": "England",
+      "position": "Left Winger"
+      ,"club": "Arsenal"
+    },
+    {
+      "shirtNumber": 7,
+      "playerName": "Bukayo Saka",
+      "playerAge": 23,
+      "playerCountry": "England",
+      "position": "Right Winger"
+      ,"club": "Arsenal"
+    },
+    {
+      "shirtNumber": 29,
+      "playerName": "Kai Havertz",
+      "playerAge": 25,
+      "playerCountry": "Germany",
+      "position": "Centre-Forward"
+      ,"club": "Arsenal"
+    },
+    {
+      "shirtNumber": 9,
+      "playerName": "Gabriel Jesus",
+      "playerAge": 27,
+      "playerCountry": "Brazil",
+      "position": "Centre-Forward"
+      ,"club": "Arsenal"
+    },
+    {
+        "shirtNumber": 23,
+        "playerName": "Emiliano Martínez",
+        "playerAge": 32,
+        "playerCountry": "Argentina",
+        "position": "Goalkeeper"
+        ,"club": "Aston Villa"
+      },
+      {
+        "shirtNumber": 18,
+        "playerName": "Joe Gauci",
+        "playerAge": 24,
+        "playerCountry": "Australia",
+        "position": "Goalkeeper"
+        ,"club": "Aston Villa"
+      },
+      {
+        "shirtNumber": 25,
+        "playerName": "Robin Olsen",
+        "playerAge": 34,
+        "playerCountry": "Sweden",
+        "position": "Goalkeeper"
+        ,"club": "Aston Villa"
+      },
+      {
+        "shirtNumber": 14,
+        "playerName": "Pau Torres",
+        "playerAge": 27,
+        "playerCountry": "Spain",
+        "position": "Centre-Back"
+        ,"club": "Aston Villa"
+      },
+      {
+        "shirtNumber": 4,
+        "playerName": "Ezri Konsa",
+        "playerAge": 26,
+        "playerCountry": "England",
+        "position": "Centre-Back"
+        ,"club": "Aston Villa"
+      },
+      {
+        "shirtNumber": 3,
+        "playerName": "Diego Carlos",
+        "playerAge": 31,
+        "playerCountry": "Brazil",
+        "position": "Centre-Back"
+        ,"club": "Aston Villa"
+      },
+      {
+        "shirtNumber": 5,
+        "playerName": "Tyrone Mings",
+        "playerAge": 31,
+        "playerCountry": "England",
+        "position": "Centre-Back"
+        ,"club": "Aston Villa"
+      },
+      {
+        "shirtNumber": 30,
+        "playerName": "Kortney Hause",
+        "playerAge": 29,
+        "playerCountry": "England",
+        "position": "Centre-Back"
+        ,"club": "Aston Villa"
+      },
+      {
+        "shirtNumber": 26,
+        "playerName": "Lamare Bogarde",
+        "playerAge": 20,
+        "playerCountry": "Netherlands",
+        "position": "Centre-Back"
+        ,"club": "Aston Villa"
+      },
+      {
+        "shirtNumber": 22,
+        "playerName": "Ian Maatsen",
+        "playerAge": 22,
+        "playerCountry": "Netherlands",
+        "position": "Left-Back"
+        ,"club": "Aston Villa"
+      },
+      {
+        "shirtNumber": 12,
+        "playerName": "Lucas Digne",
+        "playerAge": 31,
+        "playerCountry": "France",
+        "position": "Left-Back"
+        ,"club": "Aston Villa"
+      },
+      {
+        "shirtNumber": 2,
+        "playerName": "Matty Cash",
+        "playerAge": 27,
+        "playerCountry": "Poland",
+        "position": "Right-Back"
+        ,"club": "Aston Villa"
+      },
+      {
+        "shirtNumber": 20,
+        "playerName": "Kosta Nedeljkovic",
+        "playerAge": 18,
+        "playerCountry": "Serbia",
+        "position": "Right-Back"
+        ,"club": "Aston Villa"
+      },
+      {
+        "shirtNumber": 24,
+        "playerName": "Amadou Onana",
+        "playerAge": 23,
+        "playerCountry": "Belgium",
+        "position": "Defensive Midfield"
+        ,"club": "Aston Villa"
+      },
+      {
+        "shirtNumber": 44,
+        "playerName": "Boubacar Kamara",
+        "playerAge": 24,
+        "playerCountry": "France",
+        "position": "Defensive Midfield"
+        ,"club": "Aston Villa"
+      },
+      {
+        "shirtNumber": 7,
+        "playerName": "John McGinn",
+        "playerAge": 29,
+        "playerCountry": "Scotland",
+        "position": "Central Midfield"
+        ,"club": "Aston Villa"
+      },
+      {
+        "shirtNumber": 8,
+        "playerName": "Youri Tielemans",
+        "playerAge": 27,
+        "playerCountry": "Belgium",
+        "position": "Central Midfield"
+        ,"club": "Aston Villa"
+      },
+      {
+        "shirtNumber": 6,
+        "playerName": "Ross Barkley",
+        "playerAge": 30,
+        "playerCountry": "England",
+        "position": "Central Midfield"
+        ,"club": "Aston Villa"
+      },
+      {
+        "shirtNumber": 41,
+        "playerName": "Jacob Ramsey",
+        "playerAge": 23,
+        "playerCountry": "England",
+        "position": "Attacking Midfield"
+        ,"club": "Aston Villa"
+      },
+      {
+        "shirtNumber": 27,
+        "playerName": "Morgan Rogers",
+        "playerAge": 22,
+        "playerCountry": "England",
+        "position": "Attacking Midfield"
+        ,"club": "Aston Villa"
+      },
+      {
+        "shirtNumber": 10,
+        "playerName": "Emiliano Buendía",
+        "playerAge": 27,
+        "playerCountry": "Argentina",
+        "position": "Attacking Midfield"
+        ,"club": "Aston Villa"
+      },
+      {
+        "shirtNumber": 19,
+        "playerName": "Jaden Philogene",
+        "playerAge": 22,
+        "playerCountry": "England",
+        "position": "Left Winger"
+        ,"club": "Aston Villa"
+      },
+      {
+        "shirtNumber": 31,
+        "playerName": "Leon Bailey",
+        "playerAge": 27,
+        "playerCountry": "Jamaica",
+        "position": "Right Winger"
+        ,"club": "Aston Villa"
+      },
+      {
+        "shirtNumber": 11,
+        "playerName": "Ollie Watkins",
+        "playerAge": 28,
+        "playerCountry": "England",
+        "position": "Centre-Forward"
+        ,"club": "Aston Villa"
+      },
+      {
+        "shirtNumber": 9,
+        "playerName": "Jhon Durán",
+        "playerAge": 20,
+        "playerCountry": "Colombia",
+        "position": "Centre-Forward"
+        ,"club": "Aston Villa"
+      },
+      {
+        "shirtNumber": 1,
+        "playerName": "Robert Sánchez",
+        "playerAge": 26,
+        "playerCountry": "Spain",
+        "position": "Goalkeeper"
+        ,"club": "Chelsea"
+      },
+      {
+        "shirtNumber": 12,
+        "playerName": "Filip Jørgensen",
+        "playerAge": 22,
+        "playerCountry": "Denmark",
+        "position": "Goalkeeper"
+        ,"club": "Chelsea"
+      },
+      {
+        "shirtNumber": 13,
+        "playerName": "Marcus Bettinelli",
+        "playerAge": 32,
+        "playerCountry": "England",
+        "position": "Goalkeeper"
+        ,"club": "Chelsea"
+      },
+      {
+        "shirtNumber": 47,
+        "playerName": "Lucas Bergström",
+        "playerAge": 22,
+        "playerCountry": "Finland",
+        "position": "Goalkeeper"
+        ,"club": "Chelsea"
+      },
+      {
+        "shirtNumber": 6,
+        "playerName": "Levi Colwill",
+        "playerAge": 21,
+        "playerCountry": "England",
+        "position": "Centre-Back"
+        ,"club": "Chelsea"
+      },
+      {
+        "shirtNumber": 2,
+        "playerName": "Axel Disasi",
+        "playerAge": 26,
+        "playerCountry": "France",
+        "position": "Centre-Back"
+        ,"club": "Chelsea"
+      },
+      {
+        "shirtNumber": 5,
+        "playerName": "Benoît Badiashile",
+        "playerAge": 23,
+        "playerCountry": "France",
+        "position": "Centre-Back"
+        ,"club": "Chelsea"
+      },
+      {
+        "shirtNumber": 29,
+        "playerName": "Wesley Fofana",
+        "playerAge": 23,
+        "playerCountry": "France",
+        "position": "Centre-Back"
+        ,"club": "Chelsea"
+      },
+      {
+        "shirtNumber": 4,
+        "playerName": "Tosin Adarabioyo",
+        "playerAge": 27,
+        "playerCountry": "England",
+        "position": "Centre-Back"
+        ,"club": "Chelsea"
+      },
+      {
+        "shirtNumber": 3,
+        "playerName": "Marc Cucurella",
+        "playerAge": 26,
+        "playerCountry": "Spain",
+        "position": "Left-Back"
+        ,"club": "Chelsea"
+      },
+      {
+        "shirtNumber": 21,
+        "playerName": "Ben Chilwell",
+        "playerAge": 27,
+        "playerCountry": "England",
+        "position": "Left-Back"
+        ,"club": "Chelsea"
+      },
+      {
+        "shirtNumber": 40,
+        "playerName": "Renato Veiga",
+        "playerAge": 21,
+        "playerCountry": "Portugal",
+        "position": "Left-Back"
+        ,"club": "Chelsea"
+      },
+      {
+        "shirtNumber": 24,
+        "playerName": "Reece James",
+        "playerAge": 24,
+        "playerCountry": "England",
+        "position": "Right-Back"
+        ,"club": "Chelsea"
+      },
+      {
+        "shirtNumber": 27,
+        "playerName": "Malo Gusto",
+        "playerAge": 21,
+        "playerCountry": "France",
+        "position": "Right-Back"
+        ,"club": "Chelsea"
+      },
+      {
+        "shirtNumber": 25,
+        "playerName": "Moisés Caicedo",
+        "playerAge": 22,
+        "playerCountry": "Ecuador",
+        "position": "Defensive Midfield"
+        ,"club": "Chelsea"
+      },
+      {
+        "shirtNumber": 45,
+        "playerName": "Roméo Lavia",
+        "playerAge": 20,
+        "playerCountry": "Belgium",
+        "position": "Defensive Midfield"
+        ,"club": "Chelsea"
+      },
+      {
+        "shirtNumber": 8,
+        "playerName": "Enzo Fernández",
+        "playerAge": 23,
+        "playerCountry": "Argentina",
+        "position": "Central Midfield"
+        ,"club": "Chelsea"
+      },
+      {
+        "shirtNumber": 22,
+        "playerName": "Kiernan Dewsbury-Hall",
+        "playerAge": 26,
+        "playerCountry": "England",
+        "position": "Central Midfield"
+        ,"club": "Chelsea"
+      },
+      {
+        "shirtNumber": 17,
+        "playerName": "Carney Chukwuemeka",
+        "playerAge": 20,
+        "playerCountry": "England",
+        "position": "Central Midfield"
+        ,"club": "Chelsea"
+      },
+      {
+        "shirtNumber": 31,
+        "playerName": "Cesare Casadei",
+        "playerAge": 21,
+        "playerCountry": "Italy",
+        "position": "Central Midfield"
+        ,"club": "Chelsea"
+      },
+      {
+        "shirtNumber": 20,
+        "playerName": "Cole Palmer",
+        "playerAge": 22,
+        "playerCountry": "England",
+        "position": "Attacking Midfield"
+        ,"club": "Chelsea"
+      },
+      {
+        "shirtNumber": 10,
+        "playerName": "Mykhaylo Mudryk",
+        "playerAge": 23,
+        "playerCountry": "Ukraine",
+        "position": "Left Winger"
+        ,"club": "Chelsea"
+      },
+      {
+        "shirtNumber": 19,
+        "playerName": "Jadon Sancho",
+        "playerAge": 24,
+        "playerCountry": "England",
+        "position": "Left Winger"
+        ,"club": "Chelsea"
+      },
+      {
+        "shirtNumber": 7,
+        "playerName": "Pedro Neto",
+        "playerAge": 24,
+        "playerCountry": "Portugal",
+        "position": "Right Winger"
+        ,"club": "Chelsea"
+      },
+      {
+        "shirtNumber": 11,
+        "playerName": "Noni Madueke",
+        "playerAge": 22,
+        "playerCountry": "England",
+        "position": "Right Winger"
+        ,"club": "Chelsea"
+      },
+      {
+        "shirtNumber": 14,
+        "playerName": "João Félix",
+        "playerAge": 24,
+        "playerCountry": "Portugal",
+        "position": "Second Striker"
+        ,"club": "Chelsea"
+      },
+      {
+        "shirtNumber": 18,
+        "playerName": "Christopher Nkunku",
+        "playerAge": 26,
+        "playerCountry": "France",
+        "position": "Centre-Forward"
+        ,"club": "Chelsea"
+      },
+      {
+        "shirtNumber": 15,
+        "playerName": "Nicolas Jackson",
+        "playerAge": 23,
+        "playerCountry": "Senegal",
+        "position": "Centre-Forward"
+        ,"club": "Chelsea"
+      },
+      {
+        "shirtNumber": 38,
+        "playerName": "Marc Guiu",
+        "playerAge": 18,
+        "playerCountry": "Spain",
+        "position": "Centre-Forward"
+        ,"club": "Chelsea"
+      },
+      {
+        "shirtNumber": 1,
+        "playerName": "Alisson",
+        "playerAge": 32,
+        "playerCountry": "Brazil",
+        "position": "Goalkeeper"
+        ,"club": "Liverpool"
+      },
+      {
+        "shirtNumber": 62,
+        "playerName": "Caoimhín Kelleher",
+        "playerAge": 25,
+        "playerCountry": "Ireland",
+        "position": "Goalkeeper"
+        ,"club": "Liverpool"
+      },
+      {
+        "shirtNumber": 56,
+        "playerName": "Vitezslav Jaros",
+        "playerAge": 23,
+        "playerCountry": "Czech Republic",
+        "position": "Goalkeeper"
+        ,"club": "Liverpool"
+      },
+      {
+        "shirtNumber": 5,
+        "playerName": "Ibrahima Konaté",
+        "playerAge": 25,
+        "playerCountry": "France",
+        "position": "Centre-Back"
+        ,"club": "Liverpool"
+      },
+      {
+        "shirtNumber": 4,
+        "playerName": "Virgil van Dijk",
+        "playerAge": 33,
+        "playerCountry": "Netherlands",
+        "position": "Centre-Back"
+        ,"club": "Liverpool"
+      },
+      {
+        "shirtNumber": 2,
+        "playerName": "Joe Gomez",
+        "playerAge": 27,
+        "playerCountry": "England",
+        "position": "Centre-Back"
+        ,"club": "Liverpool"
+      },
+      {
+        "shirtNumber": 78,
+        "playerName": "Jarell Quansah",
+        "playerAge": 21,
+        "playerCountry": "England",
+        "position": "Centre-Back"
+        ,"club": "Liverpool"
+      },
+      {
+        "shirtNumber": 26,
+        "playerName": "Andrew Robertson",
+        "playerAge": 30,
+        "playerCountry": "Scotland",
+        "position": "Left-Back"
+        ,"club": "Liverpool"
+      },
+      {
+        "shirtNumber": 21,
+        "playerName": "Konstantinos Tsimikas",
+        "playerAge": 28,
+        "playerCountry": "Greece",
+        "position": "Left-Back"
+        ,"club": "Liverpool"
+      },
+      {
+        "shirtNumber": 66,
+        "playerName": "Trent Alexander-Arnold",
+        "playerAge": 25,
+        "playerCountry": "England",
+        "position": "Right-Back"
+        ,"club": "Liverpool"
+      },
+      {
+        "shirtNumber": 84,
+        "playerName": "Conor Bradley",
+        "playerAge": 21,
+        "playerCountry": "Northern Ireland",
+        "position": "Right-Back"
+        ,"club": "Liverpool"
+      },
+      {
+        "shirtNumber": 3,
+        "playerName": "Wataru Endo",
+        "playerAge": 31,
+        "playerCountry": "Japan",
+        "position": "Defensive Midfield"
+        ,"club": "Liverpool"
+      },
+      {
+        "shirtNumber": 8,
+        "playerName": "Dominik Szoboszlai",
+        "playerAge": 23,
+        "playerCountry": "Hungary",
+        "position": "Central Midfield"
+        ,"club": "Liverpool"
+      },
+      {
+        "shirtNumber": 10,
+        "playerName": "Alexis Mac Allister",
+        "playerAge": 25,
+        "playerCountry": "Argentina",
+        "position": "Central Midfield"
+        ,"club": "Liverpool"
+      },
+      {
+        "shirtNumber": 38,
+        "playerName": "Ryan Gravenberch",
+        "playerAge": 22,
+        "playerCountry": "Netherlands",
+        "position": "Central Midfield"
+        ,"club": "Liverpool"
+      },
+      {
+        "shirtNumber": 17,
+        "playerName": "Curtis Jones",
+        "playerAge": 23,
+        "playerCountry": "England",
+        "position": "Central Midfield"
+        ,"club": "Liverpool"
+      },
+      {
+        "shirtNumber": 19,
+        "playerName": "Harvey Elliott",
+        "playerAge": 21,
+        "playerCountry": "England",
+        "position": "Central Midfield"
+        ,"club": "Liverpool"
+      },
+      {
+        "shirtNumber": 7,
+        "playerName": "Luis Díaz",
+        "playerAge": 27,
+        "playerCountry": "Colombia",
+        "position": "Left Winger"
+        ,"club": "Liverpool"
+      },
+      {
+        "shirtNumber": 18,
+        "playerName": "Cody Gakpo",
+        "playerAge": 25,
+        "playerCountry": "Netherlands",
+        "position": "Left Winger"
+        ,"club": "Liverpool"
+      },
+      {
+        "shirtNumber": 14,
+        "playerName": "Federico Chiesa",
+        "playerAge": 26,
+        "playerCountry": "Italy",
+        "position": "Left Winger"
+        ,"club": "Liverpool"
+      },
+      {
+        "shirtNumber": 11,
+        "playerName": "Mohamed Salah",
+        "playerAge": 32,
+        "playerCountry": "Egypt",
+        "position": "Right Winger"
+        ,"club": "Liverpool"
+      },
+      {
+        "shirtNumber": 9,
+        "playerName": "Darwin Núñez",
+        "playerAge": 25,
+        "playerCountry": "Uruguay",
+        "position": "Centre-Forward"
+        ,"club": "Liverpool"
+      },
+      {
+        "shirtNumber": 20,
+        "playerName": "Diogo Jota",
+        "playerAge": 27,
+        "playerCountry": "Portugal",
+        "position": "Centre-Forward"
+        ,"club": "Liverpool"
+      },
+      {
+        "shirtNumber": 31,
+        "playerName": "Ederson",
+        "playerAge": 31,
+        "playerCountry": "Brazil",
+        "position": "Goalkeeper"
+        ,"club": "Manchester City"
+      },
+      {
+        "shirtNumber": 18,
+        "playerName": "Stefan Ortega",
+        "playerAge": 31,
+        "playerCountry": "Germany",
+        "position": "Goalkeeper"
+        ,"club": "Manchester City"
+      },
+      {
+        "shirtNumber": 33,
+        "playerName": "Scott Carson",
+        "playerAge": 39,
+        "playerCountry": "England",
+        "position": "Goalkeeper"
+        ,"club": "Manchester City"
+      },
+      {
+        "shirtNumber": 3,
+        "playerName": "Rúben Dias",
+        "playerAge": 27,
+        "playerCountry": "Portugal",
+        "position": "Centre-Back"
+        ,"club": "Manchester City"
+      },
+      {
+        "shirtNumber": 25,
+        "playerName": "Manuel Akanji",
+        "playerAge": 29,
+        "playerCountry": "Switzerland",
+        "position": "Centre-Back"
+        ,"club": "Manchester City"
+      },
+      {
+        "shirtNumber": 6,
+        "playerName": "Nathan Aké",
+        "playerAge": 29,
+        "playerCountry": "Netherlands",
+        "position": "Centre-Back"
+        ,"club": "Manchester City"
+      },
+      {
+        "shirtNumber": 5,
+        "playerName": "John Stones",
+        "playerAge": 30,
+        "playerCountry": "England",
+        "position": "Centre-Back"
+        ,"club": "Manchester City"
+      },
+      {
+        "shirtNumber": 24,
+        "playerName": "Josko Gvardiol",
+        "playerAge": 22,
+        "playerCountry": "Croatia",
+        "position": "Left-Back"
+        ,"club": "Manchester City"
+      },
+      {
+        "shirtNumber": 97,
+        "playerName": "Josh Wilson-Esbrand",
+        "playerAge": 21,
+        "playerCountry": "England",
+        "position": "Left-Back"
+        ,"club": "Manchester City"
+      },
+      {
+        "shirtNumber": 82,
+        "playerName": "Rico Lewis",
+        "playerAge": 19,
+        "playerCountry": "England",
+        "position": "Right-Back"
+        ,"club": "Manchester City"
+      },
+      {
+        "shirtNumber": 2,
+        "playerName": "Kyle Walker",
+        "playerAge": 34,
+        "playerCountry": "England",
+        "position": "Right-Back"
+        ,"club": "Manchester City"
+      },
+      {
+        "shirtNumber": 16,
+        "playerName": "Rodri",
+        "playerAge": 28,
+        "playerCountry": "Spain",
+        "position": "Defensive Midfield"
+        ,"club": "Manchester City"
+      },
+      {
+        "shirtNumber": 27,
+        "playerName": "Matheus Nunes",
+        "playerAge": 26,
+        "playerCountry": "Portugal",
+        "position": "Central Midfield"
+        ,"club": "Manchester City"
+      },
+      {
+        "shirtNumber": 8,
+        "playerName": "Mateo Kovacic",
+        "playerAge": 30,
+        "playerCountry": "Croatia",
+        "position": "Central Midfield"
+        ,"club": "Manchester City"
+      },
+      {
+        "shirtNumber": 19,
+        "playerName": "İlkay Gündoğan",
+        "playerAge": 33,
+        "playerCountry": "Germany",
+        "position": "Central Midfield"
+        ,"club": "Manchester City"
+      },
+      {
+        "shirtNumber": 87,
+        "playerName": "James McAtee",
+        "playerAge": 21,
+        "playerCountry": "England",
+        "position": "Central Midfield"
+        ,"club": "Manchester City"
+      },
+      {
+        "shirtNumber": 20,
+        "playerName": "Bernardo Silva",
+        "playerAge": 30,
+        "playerCountry": "Portugal",
+        "position": "Attacking Midfield"
+        ,"club": "Manchester City"
+      },
+      {
+        "shirtNumber": 17,
+        "playerName": "Kevin De Bruyne",
+        "playerAge": 33,
+        "playerCountry": "Belgium",
+        "position": "Attacking Midfield"
+        ,"club": "Manchester City"
+      },
+      {
+        "shirtNumber": 11,
+        "playerName": "Jérémy Doku",
+        "playerAge": 22,
+        "playerCountry": "Belgium",
+        "position": "Left Winger"
+        ,"club": "Manchester City"
+      },
+      {
+        "shirtNumber": 10,
+        "playerName": "Jack Grealish",
+        "playerAge": 29,
+        "playerCountry": "England",
+        "position": "Left Winger"
+        ,"club": "Manchester City"
+      },
+      {
+        "shirtNumber": 47,
+        "playerName": "Phil Foden",
+        "playerAge": 24,
+        "playerCountry": "England",
+        "position": "Right Winger"
+        ,"club": "Manchester City"
+      },
+      {
+        "shirtNumber": 26,
+        "playerName": "Savinho",
+        "playerAge": 20,
+        "playerCountry": "Brazil",
+        "position": "Right Winger"
+        ,"club": "Manchester City"
+      },
+      {
+        "shirtNumber": 52,
+        "playerName": "Oscar Bobb",
+        "playerAge": 21,
+        "playerCountry": "Norway",
+        "position": "Right Winger"
+        ,"club": "Manchester City"
+      },
+      {
+        "shirtNumber": 9,
+        "playerName": "Erling Haaland",
+        "playerAge": 24,
+        "playerCountry": "Norway",
+        "position": "Centre-Forward"
+        ,"club": "Manchester City"
+      },
+      {
+        "shirtNumber": 22,
+        "playerName": "Nick Pope",
+        "playerAge": 32,
+        "playerCountry": "England",
+        "position": "Goalkeeper"
+        ,"club": "Newcastle United"
+      },
+      {
+        "shirtNumber": 19,
+        "playerName": "Odysseas Vlachodimos",
+        "playerAge": 30,
+        "playerCountry": "Greece",
+        "position": "Goalkeeper"
+        ,"club": "Newcastle United"
+      },
+      {
+        "shirtNumber": 1,
+        "playerName": "Martin Dúbravka",
+        "playerAge": 35,
+        "playerCountry": "Slovakia",
+        "position": "Goalkeeper"
+        ,"club": "Newcastle United"
+      },
+      {
+        "shirtNumber": 29,
+        "playerName": "Mark Gillespie",
+        "playerAge": 32,
+        "playerCountry": "England",
+        "position": "Goalkeeper"
+        ,"club": "Newcastle United"
+      },
+      {
+        "shirtNumber": 26,
+        "playerName": "John Ruddy",
+        "playerAge": 37,
+        "playerCountry": "England",
+        "position": "Goalkeeper"
+        ,"club": "Newcastle United"
+      },
+      {
+        "shirtNumber": 4,
+        "playerName": "Sven Botman",
+        "playerAge": 24,
+        "playerCountry": "Netherlands",
+        "position": "Centre-Back"
+        ,"club": "Newcastle United"
+      },
+      {
+        "shirtNumber": 25,
+        "playerName": "Lloyd Kelly",
+        "playerAge": 25,
+        "playerCountry": "England",
+        "position": "Centre-Back"
+        ,"club": "Newcastle United"
+      },
+      {
+        "shirtNumber": 5,
+        "playerName": "Fabian Schär",
+        "playerAge": 32,
+        "playerCountry": "Switzerland",
+        "position": "Centre-Back"
+        ,"club": "Newcastle United"
+      },
+      {
+        "shirtNumber": 33,
+        "playerName": "Dan Burn",
+        "playerAge": 32,
+        "playerCountry": "England",
+        "position": "Centre-Back"
+        ,"club": "Newcastle United"
+      },
+      {
+        "shirtNumber": 6,
+        "playerName": "Jamaal Lascelles",
+        "playerAge": 30,
+        "playerCountry": "England",
+        "position": "Centre-Back"
+        ,"club": "Newcastle United"
+      },
+      {
+        "shirtNumber": 20,
+        "playerName": "Lewis Hall",
+        "playerAge": 20,
+        "playerCountry": "England",
+        "position": "Left-Back"
+        ,"club": "Newcastle United"
+      },
+      {
+        "shirtNumber": 13,
+        "playerName": "Matt Targett",
+        "playerAge": 29,
+        "playerCountry": "England",
+        "position": "Left-Back"
+        ,"club": "Newcastle United"
+      },
+      {
+        "shirtNumber": 37,
+        "playerName": "Alex Murphy",
+        "playerAge": 20,
+        "playerCountry": "Ireland",
+        "position": "Left-Back"
+        ,"club": "Newcastle United"
+      },
+      {
+        "shirtNumber": 21,
+        "playerName": "Tino Livramento",
+        "playerAge": 21,
+        "playerCountry": "England",
+        "position": "Right-Back"
+        ,"club": "Newcastle United"
+      },
+      {
+        "shirtNumber": 2,
+        "playerName": "Kieran Trippier",
+        "playerAge": 34,
+        "playerCountry": "England",
+        "position": "Right-Back"
+        ,"club": "Newcastle United"
+      },
+      {
+        "shirtNumber": 17,
+        "playerName": "Emil Krafth",
+        "playerAge": 30,
+        "playerCountry": "Sweden",
+        "position": "Right-Back"
+        ,"club": "Newcastle United"
+      },
+      {
+        "shirtNumber": 39,
+        "playerName": "Bruno Guimarães",
+        "playerAge": 26,
+        "playerCountry": "Brazil",
+        "position": "Defensive Midfield"
+        ,"club": "Newcastle United"
+      },
+      {
+        "shirtNumber": 7,
+        "playerName": "Joelinton",
+        "playerAge": 28,
+        "playerCountry": "Brazil",
+        "position": "Central Midfield"
+        ,"club": "Newcastle United"
+      },
+      {
+        "shirtNumber": 8,
+        "playerName": "Sandro Tonali",
+        "playerAge": 24,
+        "playerCountry": "Italy",
+        "position": "Central Midfield"
+        ,"club": "Newcastle United"
+      },
+      {
+        "shirtNumber": 28,
+        "playerName": "Joe Willock",
+        "playerAge": 25,
+        "playerCountry": "England",
+        "position": "Central Midfield"
+        ,"club": "Newcastle United"
+      },
+      {
+        "shirtNumber": 36,
+        "playerName": "Sean Longstaff",
+        "playerAge": 26,
+        "playerCountry": "England",
+        "position": "Central Midfield"
+        ,"club": "Newcastle United"
+      },
+      {
+        "shirtNumber": 67,
+        "playerName": "Lewis Miley",
+        "playerAge": 18,
+        "playerCountry": "England",
+        "position": "Central Midfield"
+        ,"club": "Newcastle United"
+      },
+      {
+        "shirtNumber": 10,
+        "playerName": "Anthony Gordon",
+        "playerAge": 23,
+        "playerCountry": "England",
+        "position": "Left Winger"
+        ,"club": "Newcastle United"
+      },
+      {
+        "shirtNumber": 11,
+        "playerName": "Harvey Barnes",
+        "playerAge": 26,
+        "playerCountry": "England",
+        "position": "Left Winger"
+        ,"club": "Newcastle United"
+      },
+      {
+        "shirtNumber": 38,
+        "playerName": "Garang Kuol",
+        "playerAge": 20,
+        "playerCountry": "Australia",
+        "position": "Left Winger"
+        ,"club": "Newcastle United"
+      },
+      {
+        "shirtNumber": 24,
+        "playerName": "Miguel Almirón",
+        "playerAge": 30,
+        "playerCountry": "Paraguay",
+        "position": "Right Winger"
+        ,"club": "Newcastle United"
+      },
+      {
+        "shirtNumber": 23,
+        "playerName": "Jacob Murphy",
+        "playerAge": 29,
+        "playerCountry": "England",
+        "position": "Right Winger"
+        ,"club": "Newcastle United"
+      },
+      {
+        "shirtNumber": 14,
+        "playerName": "Alexander Isak",
+        "playerAge": 25,
+        "playerCountry": "Sweden",
+        "position": "Centre-Forward"
+        ,"club": "Newcastle United"
+      },
+      {
+        "shirtNumber": 9,
+        "playerName": "Callum Wilson",
+        "playerAge": 32,
+        "playerCountry": "England",
+        "position": "Centre-Forward"
+        ,"club": "Newcastle United"
+      },
+      {
+        "shirtNumber": 18,
+        "playerName": "William Osula",
+        "playerAge": 21,
+        "playerCountry": "Denmark",
+        "position": "Centre-Forward"
+        ,"club": "Newcastle United"
+      }
+  ]
