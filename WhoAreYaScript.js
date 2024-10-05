@@ -8,6 +8,15 @@ document.addEventListener('DOMContentLoaded', () => {
     
     const input = document.getElementById('text-input')
 
+    // GuessedPlayerInfo
+    const guessedPlayerName = document.getElementById('playerName');
+    const guessedPlayerShirtNumber = document.getElementById('shirtNumber')
+    const guessedPlayerAge = document.getElementById('playerAge')
+    const guessedPlayerCountry = document.getElementById('playerCountry')
+    const guessedPlayerClub = document.getElementById('club')
+    const guessedPlayerPosition = document.getElementById('position')
+
+
     let randomPlayer = {}
     const playerInfo = {}
 
@@ -37,16 +46,18 @@ document.addEventListener('DOMContentLoaded', () => {
             if(playerInfo[selectedPlayer]) {
                 const playerData = playerInfo[selectedPlayer]
 
-                const guessedPlayerName = document.getElementById('playerName');
+                // Tjek navn
                 if (playerData.playerName != randomPlayer.playerName) {
                     guessedPlayerName.value = playerData.playerName
                     guessedPlayerName.style.color = "red"
                 } else {
                     guessedPlayerName.value = playerData.playerName
                     guessedPlayerName.style.color = "green"
+                    gameWon()
+                    return
                 }
 
-                const guessedPlayerShirtNumber = document.getElementById('shirtNumber')
+                // Tjek trøjenummer
                 if (playerData.shirtNumber > randomPlayer.shirtNumber) {
                     guessedPlayerShirtNumber.value = `${playerData.shirtNumber} ↓`;
                     guessedPlayerShirtNumber.style.color = "red"
@@ -58,7 +69,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     guessedPlayerShirtNumber.style.color = "green"  
                 }
 
-                const guessedPlayerAge = document.getElementById('playerAge')
+                // Tjek alder
                 if (playerData.playerAge > randomPlayer.playerAge) {
                     guessedPlayerAge.value = `${playerData.playerAge} ↓`;
                     guessedPlayerAge.style.color = "red"
@@ -70,7 +81,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     guessedPlayerAge.style.color = "green"  
                 }
 
-                const guessedPlayerCountry = document.getElementById('playerCountry')
+                // Tjek land
                 if (playerData.playerCountry != randomPlayer.playerCountry) {
                     guessedPlayerCountry.value = playerData.playerCountry
                     guessedPlayerCountry.style.color = "red"
@@ -79,7 +90,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     guessedPlayerCountry.style.color = "green"
                 }
                 
-                const guessedPlayerClub = document.getElementById('club')
+                // Tjek klub
                 if (playerData.club != randomPlayer.club) {
                     guessedPlayerClub.value = playerData.club
                     guessedPlayerClub.style.color = "red"
@@ -88,7 +99,8 @@ document.addEventListener('DOMContentLoaded', () => {
                     guessedPlayerClub.style.color = "green"
                 }
 
-                const guessedPlayerPosition = document.getElementById('position')
+                // Tjek position
+                // TODO Clean up i den kode her.
                 const playerPosition = playerData.position;
                 console.log(playerPosition);
                 if (((playerData.position == "Left-Back" || playerData.position == "Right-Back" || playerData.position == "Centre-Back") 
@@ -137,13 +149,62 @@ document.addEventListener('DOMContentLoaded', () => {
                     guessedPlayerPosition.value = "Goalkeeper";
                     guessedPlayerPosition.style.color = "green";
                 }
-                
                 guesses++;
                 paragraph.textContent = `GUESS ${guesses} OF 8`
                 console.log(randomPlayer.playerCountry);
+                input.value = ""
+                input.placeholder = ""
+                gameLost()
+
             }
 
-            
-        })
+        });
+        function gameLost() {
+            if (guesses >= 8) {
+                const userResponse = confirm(`Unlucky! The random player was: ${randomPlayer.playerName} from ${randomPlayer.club}! Do you want to play again? [OK] or go to homepage? [CAncel]`)
+                if (userResponse) {
+                    location.reload(); 
+                    guessedPlayerAge.value = "";
+                    guessedPlayerClub.value = "";
+                    guessedPlayerCountry.value = "";
+                    guessedPlayerName.value = "";
+                    guessedPlayerPosition.value = "";
+                    guessedPlayerShirtNumber.value = "";
+                    input.value = "";
+                } else {
+                    window.location.href = '/'; 
+                    guessedPlayerAge.value = "";
+                    guessedPlayerClub.value = "";
+                    guessedPlayerCountry.value = "";
+                    guessedPlayerName.value = "";
+                    guessedPlayerPosition.value = "";
+                    guessedPlayerShirtNumber.value = "";
+                    input.value = "";
+                }
+            }
+        }
+
+        function gameWon() {
+            const userResponse = confirm("Congratulations, you won the game! Would you like to play again [OK] or go to homepage [Cancel]?");
+            if (userResponse) {
+                location.reload(); 
+                guessedPlayerAge.value = "";
+                guessedPlayerClub.value = "";
+                guessedPlayerCountry.value = "";
+                guessedPlayerName.value = "";
+                guessedPlayerPosition.value = "";
+                guessedPlayerShirtNumber.value = "";
+                input.value = "";
+            } else {
+                window.location.href = '/'; 
+                guessedPlayerAge.value = "";
+                guessedPlayerClub.value = "";
+                guessedPlayerCountry.value = "";
+                guessedPlayerName.value = "";
+                guessedPlayerPosition.value = "";
+                guessedPlayerShirtNumber.value = "";
+                input.value = "";
+            }
+        }
 });
 

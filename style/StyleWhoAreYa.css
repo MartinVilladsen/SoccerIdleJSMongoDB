@@ -62,7 +62,18 @@ a:hover {
     background-color: rgba(255, 255, 255, 0.9); 
 }
 
+#pic1{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
 
+#pic1 img{
+    max-width: 100px;
+    height: auto;
+    object-fit: contain;
+    margin: 10px;
+}
 
 form {
     display: flex;
@@ -81,9 +92,9 @@ form {
 form div {
     display: flex;
     align-items: center;
-    margin-bottom: 10px;
     width: calc(50% - 10px);
 }
+
 
 
 label {
