@@ -142,6 +142,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 paragraph.textContent = `GUESS ${guesses} OF 8`
                 console.log(randomPlayer.playerCountry);
             }
+
+            
         })
 });
 

@@ -8,31 +8,43 @@
     <script src="/WhoAreYaScript.js"></script>
 </head>
 <body>
-    <h1><a href="/homepage.html">Back</a></h1>
+    <h1 id="backToHomepage"><a href="/homepage.html">Back</a></h1>
     <div>
-        <p id="guessesAmount"></p>
-        <input id="text-input" type="text" list="allPlayers">
+        <input id="text-input" type="text" list="allPlayers" placeholder="Enter player's name">
         <datalist id="allPlayers"></datalist>
+        <H1 id="guessesAmount"></H1>
     </div>
 
-    <div>
-        <label for="playerName">Player Name: </label>
-        <input type="text" id="playerName" readonly><br>
+    <form>
+        <div>
+            <label for="playerName">Player Name: </label>
+            <input type="text" id="playerName" readonly><br>
+        </div>
 
-        <label for="shirtNumber">Shirt Number: </label>
-        <input type="text" id="shirtNumber" readonly><br>
+        <div>
+            <label for="shirtNumber">Shirt Number: </label>
+            <input type="text" id="shirtNumber" readonly><br>
+        </div>
 
-        <label for="playerAge">Player Age: </label>
-        <input type="text" id="playerAge" readonly><br>
+        <div>
+            <label for="playerAge">Player Age: </label>
+            <input type="text" id="playerAge" readonly><br>
+        </div>
 
-        <label for="playerCountry">Player Country: </label>
-        <input type="text" id="playerCountry" readonly><br>
+        <div>
+            <label for="playerCountry">Player Country: </label>
+            <input type="text" id="playerCountry" readonly><br>
+        </div>
 
-        <label for="club">Player Club: </label>
-        <input type="text" id="club" readonly><br>
+        <div>
+            <label for="club">Player Club: </label>
+            <input type="text" id="club" readonly><br>
+        </div>
 
-        <label for="position">Player Position: </label>
-        <input type="text" id="position" readonly><br>
-    </div>
+        <div>
+            <label for="position">Player Position: </label>
+            <input type="text" id="position" readonly><br>
+        </div>
+    </form>
 </body>
 </html>
