@@ -2,7 +2,7 @@
 
 ## Hvad er SoccerIdle
 Denne webapplikation giver brugere mulighed for at udforske Premier League-hold og se information om spillerne på hvert hold. Ved at klikke på et holds logo kan du få vist detaljer om spillerne, herunder deres navn, trøjenummer og position
-### Mere kommer (Lige nu er en TeamCreator under udvikling)
+- Mere kommer (Lige nu er en TeamCreator under udvikling)
 
 Applikationen bruger en MongoDB-database til at gemme spiller- og holdinformation og er bygget ved hjælp af HTML, CSS, JavaScript og Express.js til backend.
 
