@@ -11,7 +11,6 @@ document.addEventListener('DOMContentLoaded', () => {
         playerPosition.textContent = position;
         row.appendChild(playerPosition);
         
-        // Todo Fiks datalink
         const playerSearch = document.createElement('td');
         const searchInput = document.createElement('input');
         searchInput.setAttribute('type', 'text');
@@ -29,7 +28,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const removeBtn = document.createElement('button');
         removeBtn.textContent = "Remove";
         removeBtn.addEventListener('click', () => {
-            row.remove();
+            playerName.textContent = "";
         });
         removeButton.appendChild(removeBtn);
         row.appendChild(removeButton);
@@ -40,21 +39,18 @@ document.addEventListener('DOMContentLoaded', () => {
     async function fetchTeams() {
         try {
             const res = await fetch('/api/teams');
-    
+            
             if (!res.ok) {
-                throw new Error(`HTTP error! Status: ${res.status}`);
+                throw new Error(`HTTP fejl! ${res.status}`);
             }
     
             const teams = await res.json();
-            const datalist = document.getElementById('datalist');
-    
-            datalist.innerHTML = '';
     
             teams.forEach(team => {
                 team.players.forEach(player => {
                     const option = document.createElement('option');
                     option.value = player.playerName;
-                    datalist.appendChild(option);
+                    datalist.appendChild(option); 
                 });
             });
     
@@ -62,6 +58,7 @@ document.addEventListener('DOMContentLoaded', () => {
             console.error('Error fetching teams:', error);
         }
     }
+    
     
     fetchTeams();
     

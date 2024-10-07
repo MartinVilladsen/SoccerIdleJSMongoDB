@@ -35,6 +35,15 @@ app.get('/api/teams/:teamName', async (req, res) => {
     }
 });
 
+app.get('/api/teams/', async (req, res) => {
+    try {
+        const teams = await Teams.find();
+        res.json(teams);
+    } catch (err) {
+        res.status(500).json({ message: err.message });
+    }
+});
+
 app.get('/api/players', async (req, res) => {
     try {
         const players = await Players.find();

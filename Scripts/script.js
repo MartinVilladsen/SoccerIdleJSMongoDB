@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         const res = await fetch(`/api/teams${url}`);
 
         if (!res.ok) {
-            throw new Error(`HTTP error! Status: ${res.status}`);
+            throw new Error(`HTTP fejl! ${res.status}`);
         }
 
         const teams = await res.json();
