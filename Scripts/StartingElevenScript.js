@@ -11,6 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
         playerPosition.textContent = position;
         row.appendChild(playerPosition);
         
+        // Todo Fiks datalink
         const playerSearch = document.createElement('td');
         const searchInput = document.createElement('input');
         searchInput.setAttribute('type', 'text');
@@ -20,7 +21,7 @@ document.addEventListener('DOMContentLoaded', () => {
     
         const playerName = document.createElement('td');
         searchInput.addEventListener('change', () => {
-            playerName.textContent = searchInput.value ? `Name: ${searchInput.value}` : "Name:";
+            playerName.textContent = searchInput.value;
         });
         row.appendChild(playerName);
     
