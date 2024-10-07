@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
     
     const input = document.getElementById('text-input')
 
-    // GuessedPlayerInfo
+    // GuessedPlayerInfo mm
     const guessedPlayerName = document.getElementById('playerName');
     const guessedPlayerShirtNumber = document.getElementById('shirtNumber')
     const guessedPlayerAge = document.getElementById('playerAge')
@@ -41,7 +41,7 @@ document.addEventListener('DOMContentLoaded', () => {
             console.error('Error fetching players:', error);
         }
     }
-    
+
     fetchPlayers();
 
         input.addEventListener('input', () => {
