@@ -9,7 +9,8 @@ Applikationen bruger en MongoDB-database til at gemme spiller- og holdinformatio
 
 ## Hvad kan man lige nu
 - **Holdoversigt**: Se en liste over alle Premier League-hold.
- ![Skærmbillede 2024-10-07 084234](https://github.com/user-attachments/assets/7171aead-9b7b-427e-961c-8652f000e1a5)
+![Skærmbillede 2024-10-07 092217](https://github.com/user-attachments/assets/b83433a3-6ef2-4bf5-a86e-9858161e29e2)
+
 - **Spillerinformation**: Klik på et holds logo for at se detaljeret information om spillerne på holdet.
 ### Liverpool
 ![Skærmbillede 2024-10-07 084336](https://github.com/user-attachments/assets/69124859-8094-4faa-a4c7-6f0d9ce5c63a)
@@ -24,9 +25,11 @@ Applikationen bruger en MongoDB-database til at gemme spiller- og holdinformatio
 
 # Who Are Ya er et quizspil
 - Du har 8 forsøg til at gætte fodboldspilleren fra en af de 6 klubber vist forneden - lav et tilfældigt gæt som start.
-![Skærmbillede 2024-10-07 084436](https://github.com/user-attachments/assets/74ef708f-2e03-4e8c-9715-d774d236d980)
+![Skærmbillede 2024-10-07 092300](https://github.com/user-attachments/assets/d0690bdf-61db-4c69-99ec-29a46ce107b4)
+
 - Efter hvert gæt vil du få feedback, der viser, hvor tæt dit gæt er på den mystiske spiller i flere kategorier.
-![Skærmbillede 2024-10-07 084505](https://github.com/user-attachments/assets/bf674e2f-fa55-43a5-8353-f8b2642593dd)
-### Eksempelgæt: Trent-Alexander Arnold
-- Dette betyder, at den mystiske spiller er Engelsk, og spiller ikke for Liverpool. Spilleren er heller ikke Defender, er under 25 år og har et lavere trøjenummer end #66.
-![Skærmbillede 2024-10-07 084540](https://github.com/user-attachments/assets/7554197c-fafa-48cf-b368-d02ae954bb16)
+![Skærmbillede 2024-10-07 092618](https://github.com/user-attachments/assets/5b2c6db2-6d8d-45c6-a83e-57871b27fee4)
+
+### Eksempelgæt: Declan Rice
+- Dette betyder, at den mystiske spiller er Engelsk, og spiller ikke for Arsenal. Spilleren er heller ikke Midfielder, er 25 år og har et højere trøjenummer end #41.
+![Skærmbillede 2024-10-07 092459](https://github.com/user-attachments/assets/d4c496ef-8976-4db1-ac38-b8bcdf8b327a)
