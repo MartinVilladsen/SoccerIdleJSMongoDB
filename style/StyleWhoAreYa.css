@@ -64,7 +64,7 @@ a:hover {
 
 #pic1{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
     margin-top: 20px;
 }
 
@@ -72,7 +72,7 @@ a:hover {
     max-width: 100px;
     height: auto;
     object-fit: contain;
-    margin: 10px;
+    margin: 5px;
 }
 
 form {
