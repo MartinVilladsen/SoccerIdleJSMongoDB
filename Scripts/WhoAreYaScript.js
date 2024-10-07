@@ -20,25 +20,29 @@ document.addEventListener('DOMContentLoaded', () => {
     let randomPlayer = {}
     const playerInfo = {}
 
-    fetch('/api/players')
-        .then(res => res.json())
-        .then(data => {
+    async function fetchPlayers() {
+        try {
+            const res = await fetch('/api/players');
+            const data = await res.json();
+    
             const datalist2 = document.getElementById('allPlayers');
-
+    
             data.forEach(playerObject => {
                 playerInfo[playerObject.playerName] = playerObject;
                 const option = document.createElement('option');
                 option.value = playerObject.playerName;
                 datalist2.appendChild(option);
             });
-
-            const random = data[Math.floor(Math.random() * data.length)]
+    
+            const random = data[Math.floor(Math.random() * data.length)];
             console.log(random);
-            randomPlayer = random
-        })
-        .catch(error => {
+            randomPlayer = random;
+        } catch (error) {
             console.error('Error fetching players:', error);
-        });
+        }
+    }
+    
+    fetchPlayers();
 
         input.addEventListener('input', () => {
             const selectedPlayer = input.value
