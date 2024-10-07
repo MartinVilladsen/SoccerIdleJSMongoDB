@@ -1,10 +1,11 @@
 # SoccerIdle
 
 ## Hvad er SoccerIdle
-Denne webapplikation giver brugere mulighed for at udforske Premier League-hold og se information om spillerne på hvert hold. Ved at klikke på et holds logo kan du få vist detaljer om spillerne, herunder deres navn, trøjenummer og position
+Denne webapplikation giver brugere mulighed for at se Premier League-hold og information om spillerne på hvert hold. Ved at klikke på et holds logo kan du få vist detaljer om spillerne, herunder deres navn, trøjenummer og position
 - Mere kommer (Lige nu er en TeamCreator under udvikling)
 
 Applikationen bruger en MongoDB-database til at gemme spiller- og holdinformation og er bygget ved hjælp af HTML, CSS, JavaScript og Express.js til backend.
+- Der er blevet brugt Cheerio til at webscrape fra Transfermarkt
 
 
 
@@ -21,7 +22,7 @@ Applikationen bruger en MongoDB-database til at gemme spiller- og holdinformatio
 
 ## Værktøjer brugt
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Node.js, Express.js
+- **Backend**: Node.js (Cheerio, Express, Axios)
 - **Database**: MongoDB
 
 # Who Are Ya er et quizspil
