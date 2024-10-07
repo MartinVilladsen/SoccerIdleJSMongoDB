@@ -11,7 +11,6 @@ document.addEventListener('DOMContentLoaded', () => {
         playerPosition.textContent = position;
         row.appendChild(playerPosition);
         
-        // Player search input field with datalist
         const playerSearch = document.createElement('td');
         const searchInput = document.createElement('input');
         searchInput.setAttribute('type', 'text');
@@ -37,18 +36,32 @@ document.addEventListener('DOMContentLoaded', () => {
         tableBody.appendChild(row);  
     }
 
-    fetch('/api/teams')
-    .then(response => response.json())
-    .then(teams => {
-        teams.forEach(team => {
-            team.players.forEach(player => {
-                const option = document.createElement('option');
-                option.value = player.playerName;
-                datalist.appendChild(option);
+    async function fetchTeams() {
+        try {
+            const res = await fetch('/api/teams');
+    
+            if (!res.ok) {
+                throw new Error(`HTTP error! Status: ${res.status}`);
+            }
+    
+            const teams = await res.json();
+            const datalist = document.getElementById('datalist');
+    
+            datalist.innerHTML = '';
+    
+            teams.forEach(team => {
+                team.players.forEach(player => {
+                    const option = document.createElement('option');
+                    option.value = player.playerName;
+                    datalist.appendChild(option);
+                });
             });
-        });
-    })
-    .catch(error => {
-        console.error('Error fetching players:', error);
-    });
+    
+        } catch (error) {
+            console.error('Error fetching teams:', error);
+        }
+    }
+    
+    fetchTeams();
+    
 });

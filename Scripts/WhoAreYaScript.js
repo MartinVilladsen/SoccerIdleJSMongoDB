@@ -35,7 +35,6 @@ document.addEventListener('DOMContentLoaded', () => {
             });
     
             const random = data[Math.floor(Math.random() * data.length)];
-            console.log(random);
             randomPlayer = random;
         } catch (error) {
             console.error('Error fetching players:', error);
