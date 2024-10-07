@@ -57,6 +57,10 @@ app.get('/game/WhoAreYa', (req, res) => {
     res.sendFile(path.join(__dirname, 'views', 'Whoareya.html'));
 });
 
+app.get('/game/StartingEleven', (req, res) => {
+    res.sendFile(path.join(__dirname, 'views', 'StartingEleven.html'))
+})
+
 
 app.listen(3001, () => {
     console.log(`Serveren kører på http://localhost:3001`);

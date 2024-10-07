@@ -1,0 +1,55 @@
+#backToHomepage {
+    margin-bottom: 20px;
+}
+
+#backToHomepage a {
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+img {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    height: 600px;
+    width: 450px;
+}
+
+#StartingElevenDiv {
+    display: flex;
+}
+
+#SoccerField {
+    margin-right: 75px; 
+}
+
+table {
+    border-collapse: collapse;
+    width: 80%;
+    margin: 0 auto;
+}
+
+td {
+    padding: 10px;
+    text-align: center;
+    width: 20%;
+}
+
+form {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.8); 
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    max-width: 900px;
+    margin: 0 auto;
+    width: calc(50% - 10px);
+}
